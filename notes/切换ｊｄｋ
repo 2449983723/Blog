@@ -1,0 +1,28 @@
+在实验中经常使用到多个JDK，头疼ing Ubuntu中配置多个JDK <wbr>【正解】
+
+在已经安装好多个JDK之后，想要切换的时候，只需要修改~/.bashrc中的 JAVA_HOME环境变量
+
+
+如
+
+ 93 #export JAVA_HOME=/usr/lib/jvm/jdk1.6.0_29
+ 94 export JAVA_HOME=/usr/lib/jvm/java-6-openjdk
+ 95 export CLASSPATH=$JAVA_HOME/lib:$CLASSPATH
+ 96 export PATH=$JAVA_HOME/bin:$PATH
+
+ 
+
+当需要切换两个JDK的 时候，只需要将其中一个路径注释掉，然后source ~/.bashrc即可。
+
+ 
+
+一定要注意
+
+先设置  ：JAVA_HOME
+
+再设置  ：CLASSPATH
+
+最后设置：PATH 
+
+export PATH=/usr/local/bin:/home/liunian/Android5.0/flash_tool:/home/liunian/.gradle/wrapper/dists/gradle-2.2.1-all/c64ydeuardnfqctvr1gm30w53/gradle-2.2.1/bin:/home/liunian/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/home/liunian/Android5.0/eclipse/adt-bundle-linux-x86_64-20140702/sdk/platform-tools:/tools
+export PATH=$/usr/local/bin:/usr/local/bin:/home/liunian/Android5.0/flash_tool:/home/liunian/.gradle/wrapper/dists/gradle-2.2.1-all/c64ydeuardnfqctvr1gm30w53/gradle-2.2.1/bin:/usr/lib/jvm/java-7-openjdk-amd64/bin:/home/liunian/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/home/liunian/Android5.0/eclipse/adt-bundle-linux-x86_64-20140702/sdk/platform-tools:/tools

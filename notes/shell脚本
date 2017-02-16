@@ -1,0 +1,4 @@
+在Linux下，你自己编写的脚本需要执行的时候，需要加上执行权限：
+chmod +x ./morning 
+再运行即可。
+否则会出现：bash: ./repocode: 权限不够
