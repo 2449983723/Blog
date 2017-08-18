@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rena",
+				"renames	function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:In",
+				"Package Control: Install Package"
+			],
+			[
+				"Sub",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeCodeIntel:",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"sublimeCodeIn",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 352.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/liunian/python/socket/client.py",
+		"/home/liunian/python/socket/server.py",
+		"/home/liunian/python/urllib/test_1.py",
+		"/home/liunian/python/urllib/test2.py",
+		"/home/liunian/flyme_code/flyme_m85/meizu/SDK/MeizuWidget/MzPrimaryColor/AndroidManifest.xml",
+		"/home/liunian/flyme_code/flyme_m85/meizu/SDK/MeizuWidget/MzPrimaryColor/README.txt",
+		"/home/liunian/python/tool/renameFile.py",
+		"/media/fde3fbeb-a262-45f4-b2e4-3fa6893e04f8/liunian/flyme_code/m85_mp1/frameworks/base/packages/SystemUI/res/layout/volume_panel_item.xml",
+		"/home/liunian/testapp/ScrollTextViewDemo/src/com/example/scrolltextviewdemo/MainActivity.java",
+		"/media/fde3fbeb-a262-45f4-b2e4-3fa6893e04f8/liunian/mc_picker_column_3.xml",
+		"/home/liunian/桌面/Palette/bitmap3.txt",
+		"/home/liunian/桌面/EmptyView/EmptyViewDemo/res/layout/main_layout.xml",
+		"/home/liunian/桌面/EmptyView/EmptyViewDemo/src/com/example/emptyviewdemo/MainActivity.java",
+		"/home/liunian/桌面/EmptyView/EmptyViewDemo/res/values-v14/styles.xml",
+		"/home/liunian/桌面/EmptyView/EmptyViewDemo/res/values-v11/styles.xml",
+		"/home/liunian/桌面/CustomTimePicker/dimens.xml",
+		"/home/liunian/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/usr/lib/python2.7/BaseHTTPServer.py",
+		"/home/liunian/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/home/liunian/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+		"/home/liunian/python/http/one/CGIHTTPServer.py~",
+		"/home/liunian/python/http/one/httpServer.py",
+		"/home/liunian/python/http/one/CGIHTTPServer.py",
+		"/home/liunian/python/sum.py",
+		"/usr/lib/python2.7/CGIHTTPServer.py",
+		"/home/liunian/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/liunian/桌面/Python-2.7.7/Lib/CGIHTTPServer.py",
+		"/home/liunian/python/http/one/cgi-bin/test.py",
+		"/home/liunian/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/liunian/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/liunian/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/usr/local/bin/repo",
+		"/home/liunian/python/http/one/index.html",
+		"/home/liunian/python/http/one/socketServer.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/liunian/testapp/ScrollTextViewDemo",
+			"/home/liunian/flyme_code/flyme_m81/packages/apps/Settings"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DemoInfo",
+			"class",
+			"account_manage_layout",
+			"CategoryContainer",
+			"flymeAccount",
+			"我的 Flyme",
+			"新浪微博",
+			"我的Flyme",
+			"我的",
+			"手机号",
+			"Flyme",
+			"CGIHTTPRequestHandler",
+			"CGIHTTPRequ",
+			"hide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
