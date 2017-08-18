@@ -11,7 +11,7 @@ mail_info = {
     "to": "1352211034@qq.com",
     "hostname": "smtp.qq.com",
     "username": "2449983723@qq.com",
-    "password": "xiaonian@hbutrj1b",
+    "password": "password",
     "mail_subject": "轻松一刻！",
     "mail_text": "",
     "mail_encoding": "utf-8"
@@ -30,7 +30,6 @@ if __name__ == '__main__':
     msg["Subject"] = Header(mail_info["mail_subject"], mail_info["mail_encoding"])
     msg["from"] = mail_info["from"]
     msg["to"] = mail_info["to"]
-    print msg.as_string()
     smtp.sendmail(mail_info["from"], mail_info["to"], msg.as_string())
 
     smtp.quit()
