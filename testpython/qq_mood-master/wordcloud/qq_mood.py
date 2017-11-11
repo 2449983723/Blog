@@ -34,6 +34,7 @@ class WordGenerater:
 
     def __getContentByQQ(self, qq):
         emoji_pattern = re.compile(r'\[em\](.*)\[\\/em\]')
+        english_pattern = re.compile(r'\w')
         content = ''
         try:
             query_sql = "SELECT content from mood WHERE qq=%s" % (qq)
@@ -41,7 +42,7 @@ class WordGenerater:
             # 获取所有记录列表
             results = self.db_cursor.fetchall()
             for row in results:
-                content = content + re.sub(emoji_pattern, '', row[0])
+                content = content + re.sub(english_pattern, '', re.sub(emoji_pattern, '', row[0]))
         except:
             print 'traceback.format_exc():\n%s' % traceback.format_exc()
         return content
@@ -53,6 +54,7 @@ class WordGenerater:
         #通过jieba分词进行分词并通过空格分隔
         wordlist_after_jieba = jieba.cut(self.__getContentByQQ(qq), cut_all = True)
         stopwords = {u'转载', u'内容', 'em', u'评语', 'uin', 'nick'}
+
         seg_list = [i for i in wordlist_after_jieba if i not in stopwords]
         wl_space_split = " ".join(seg_list)
         #my_wordcloud = WordCloud().generate(wl_space_split) 默认构造函数
@@ -68,8 +70,8 @@ class WordGenerater:
                     relative_scaling=0.6
                     ).generate(wl_space_split)
 
-        my_wordcloud.to_file("cloud.jpg")
+        my_wordcloud.to_file(qq + ".jpg")
 
 wordGenerater = WordGenerater()
-wordGenerater.genereteWordImg('807989524')
+wordGenerater.genereteWordImg('1095948418')
 wordGenerater.closeDbConnect()
