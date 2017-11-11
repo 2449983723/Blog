@@ -1,0 +1,1027 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script charset="utf-8" src="https://tag.baidu.com/vcard/v.js?siteid=256823&amp;url=http%3A%2F%2Fhotel.qunar.com%2Fcity%2Fbeijing_city%2Fdt-20438%2F%3Fin_track%3Dhotel_recom_beijing_city02&amp;source=&amp;rnd=2108433530&amp;hm=1"></script><script type="text/javascript" async="" defer="" src="http://e.so.com/search/c.js?u=0"></script><script type="text/javascript" defer="" async="" src="http://s0.qhimg.com/static/dc24778d282f6a33.js"></script><script src="https://hm.baidu.com/hm.js?8fa710fe238aadb83847578e333d4309"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="mobile-agent" content="format= xhtml;url=http://h.qunar.com/preDetail.jsp?seq=20438&amp;city=%E5%8C%97%E4%BA%AC&amp;v=2&amp;from=qunar">
+    <meta name="mobile-agent" content="format=html5;url=http://touch.qunar.com/h5/hotel/hoteldetail?seq=beijing_city_20438">
+    <link rel="stylesheet" href="http://q.qunarzz.com/hotel_fekit/prd/styles/detail@a735afeea15b6e3700c654359515cf2c.css">
+    <script src="//qreport.qunar.com/s2/js/qreport.js"></script>
+    <!--[if IE 6]>
+    <script type="text/javascript" src="http://q.qunarzz.com/js/compatibilityUtils/build/DD_belatedPNG-min.js"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('.qhd_guru .hotel_detail h5 span,.qhd_guru .box h3,.user_upload .uploaded_tips');
+        DD_belatedPNG.fix('.photo_pLeft a,.photo_pRight a,.tit_photo span.ico_user,.png24');
+    </script>
+    <![endif]-->
+    <link rel="canonical" href="http://hotel.qunar.com/city/beijing_city/dt-20438/">
+    <script type="text/javascript">
+        var CLIENT_TIME = new Date();
+        document.domain = "qunar.com";
+        var isStatic = false;
+        var __QUNARVER__ = 20120214135803;
+        var qunar_hotel_sp = "148";
+        var SERVER_TIME = new Date(1509962883037);
+
+        var detailType = "guru";
+        var isBnbHotel = false;
+        var isBnbCity = true;
+        var cityNameEn = "beijing";
+        var hotelSEQ="beijing_city_20438";
+        var hotelName="北京石景山景园假日酒店";
+        var hotelWzry="40bjgi_43850ei_t2333aiincy084";
+        var cityurl="beijing_city";
+        var cityName="北京";
+        var hotelPoint=[39.93833,116.21497];
+        var hotelBPoint=[39.94399,116.221571];
+        var mapGlobal=false;
+        var mapEnabled=true&&hotelPoint&&hotelPoint.length==2;
+        var printUrl='/print.jsp?seq=beijing_city_20438';
+        var dangci="3";
+        var hotelStars="0";
+        var cityTagName = "北京";
+        var cityTag = "beijing_city";
+        var isMainland = true;
+        var ids="beijing_city_19757,beijing_city_26719,beijing_city_28681,beijing_city_289,beijing_city_239,beijing_city_15474,beijing_city_4070";
+        var SERVER_GROUP = 1;
+        //是否记录清华数据
+        var isRecordData = false;
+        var rtDescJson = {"roomDesc":{"-269645226":["35㎡","1-3,5层","大床2.0m","","可以加床","独立卫浴/有窗","2","","有","有窗","独立卫浴","","大床"],"-1679333870":["32㎡","1-3,5层","","","可以加床","独立卫浴/有窗","2","","有","有窗","独立卫浴","",""],"1212807895":["55㎡","1-3,5层","大床2.0m","","可以加床","独立卫浴/有窗","2","","有","有窗","独立卫浴","","大床"],"977709989":["35㎡","1-3,5层","双床1.2m","","可以加床","独立卫浴/有窗","2","","有","有窗","独立卫浴","","双床"],"979014283":["35㎡","1-3,5层","大床2.0m","","可以加床","独立卫浴/有窗","2","","有","有窗","独立卫浴","","大床"],"-270949520":["35㎡","1-3,5层","双床1.2m","","可以加床","独立卫浴/有窗","2","","有","有窗","独立卫浴","","双床"]}};
+        var mapScale = 17 ;
+        var dtSEQ = "beijing_city/dt-20438";
+        var MAXMULTISEARCHGAP = 28;
+        var needFpRecommend = false
+        var isMapDown = false || false;
+        var captchaKey = "{fs923a";
+        var serverDate = "2017/11/06 18:08:03";
+        var fromDateRule=1;
+        var toDateRule=2;
+
+        // detail页提前预订优惠文案提示,1表示使用该文案,0表示不使用该文案
+        var isBookingCopyWriter = 0;
+
+    </script>
+    <script>
+        (function(e){var t,n=function(){var t=e.cookie,n=t.split(";"),i;if(!n)return null;for(i=0;i<n.length;i++){var o=r(n[i]),u=o.indexOf("=");if(u>=0){var a=o.substring(0,u),f=o.substring(u+1,o.length);if(a===s)return decodeURIComponent(f)}}return null},r=function(e){return typeof String.trim=="function"?String.trim(e):e==null?"":(e+"").replace(i,"")},i=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,s="QunarGlobal",o=["0","1","2","3","4","5","6","7","8","9","f","d","e","c","b","a"];if(!n()){var u=["192.168."],a=function(){return""+Math.ceil(Math.random()*255)},f=function(e){var t;return t=Math.floor(Math.random()*o.length),e&&t==0&&(t=Math.floor(Math.random()*o.length)),o[t]};u.push(a()+"."),u.push(a()+"_-");for(t=0;t<8;t++)u.push(f(t==0));u.push("_");for(t=0;t<11;t++)u.push(f(t==0));u.push("_");for(t=0;t<4;t++)u.push(f(t==0));u.push("|"+(new Date).getTime()),u=u.join(""),document.cookie=s+"="+encodeURIComponent(u)+";"+(new Date((new Date).getTime()+220752e7)).toUTCString()+";path=/;domain=qunar.com;";if(n()!==u){var l=new Image;l.onload=function(){l.onload=null,l=null},l.src="http://m.ued.qunar.com/monitor/log?code=hotel_ac_setcookie_fail&logbrowser=1"}}})(document);
+    </script>
+    <script>
+    </script>
+    <script type="text/javascript" src="http://q.qunarzz.com/hotel_fekit/prd/scripts/error@52ddb390ad03091c092d806194778b54.js"></script>
+    <title>北京石景山景园假日酒店_北京石景山景园假日酒店预订及特惠价格查询-去哪儿Qunar.com</title>
+    <meta name="keywords" content="北京石景山景园假日酒店,北京石景山景园假日酒店预订/预定, 北京石景山景园假日酒店查询">
+    <meta name="description" content="北京石景山景园假日酒店预订:实时查询和比较118家网站,北京石景山景园假日酒店详细地址,房型对比,酒店设施及 北京石景山景园假日酒店特惠价格及报价。去哪儿Qunar.com为您提供预定北京石景山景园假日酒店一站式服务">
+<style type="text/css">
+    .report{ margin-right:20px; padding-left:14px; background:url(http://source.qunar.com/site/images/badgehome/userdata_report.gif) 0 2px no-repeat; background-position:0 1px\9; _background-position:0 0; }
+    .report a{ color:#888;}
+    .report a:hover{ color:#f60; }
+</style><script src="//s.c-ctrip.com/universal-id.js?callback=_qheader_ctrip_callcallback"></script><style type="text/css">.lb_content {display : none ; position : absolute ; z-index:10000 ; left:50% ;} .lb_overlay {display : none ; position : absolute ; z-index:10000 ; background-color : #000 ; left : 0px ; top : 0px ; opacity : 0.2 ; filter: Alpha(opacity=20) ;}</style><link rel="stylesheet" type="text/css" id="loginCSS" href="//user.qunar.com/webApi/popup.jsp?css=ssl"><script type="text/javascript" id="loginScript" src="//user.qunar.com/webApi/popup.jsp?js=ssl"></script><style type="text/css">.title_lay {font-size:14px;font-weight:700;background:url(http://source.qunar.com/site/images/2011/search/dotline_bottom.gif) repeat-x left bottom;padding:0px 10px 10px 10px;position:relative; margin:10px 12px;}
+.title_lay .icon_close{position:absolute;right:0px;_right:12px;top:0px;width:15px;height:15px;text-indent:-99999em;background:url(http://source.qunar.com/site/images/badgehome/icon_close.gif) no-repeat left top;overflow:hidden;font-size:12px; cursor:pointer;}
+.content_lay{ margin:0 20px 10px;}
+.content_lay ul li{ margin-bottom:8px;}
+.content_lay ul li.gray{ color:#888;}
+.content_lay .text_input{ border:1px solid #e6e6e6; height:20px; line-height:20px;}
+.content_lay .select_input{ height:21px; line-height:21px; }
+.content_lay .textarea_input{ height:80px; width:312px; border:1px solid #e6e6e6; resize:none; }
+.content_lay p{ line-height:20px; margin-bottom:8px;}
+.content_lay h5.button{ margin-top:15px; text-align:center;}
+.content_lay h5.button .bt_buton{ margin:0 8px; color:#555; background:url(http://source.qunar.com/site/images/badgehome/button.png) no-repeat left top; border:0 none; display:inline-block; height:22px; width:50px;  }
+.w242{ width:242px;}
+.w170{ width:170px;}
+.ml72{ margin-left:72px;}
+.ml62{ margin-left:62px;}
+.qhd_comment .usercomments .report{ margin-right:20px; padding-left:14px; background:url(http://source.qunar.com/site/images/badgehome/userdata_report.gif) 0 2px no-repeat; background-position:0 1px9; _background-position:0 0; }
+.qhd_comment .usercomments .report a{ color:#888;}
+.qhd_comment .usercomments .report a:hover{ color:#f60; }</style></head>
+
+<body class="detail-body"><div class="m-txt-pop js_grlogotip"></div><div class="m-txt-pop logotip"></div>
+    <!--header start-->
+    <!-- header start -->
+<link data-hfstamp="20171101140954" id="hf-style" data-hffile="header_styles" rel="stylesheet" href="//common.qunarzz.com/hf_qzz/prd/styles/hotel/header@c4c6b0f5f853eebacc212adeb58b35a5.css">
+
+<div class="q_header q_header_hotel q_header_hotel_home  ">
+    <div class="q_header_main" data-hfchannel="hotel" data-hffile="header_main"> <div class="q_header_logo"> <a href="http://www.qunar.com/" target="_top" title="去哪儿旅游搜索引擎 Qunar.com" hidefocus="on"><img src="//source.qunarzz.com/common/hf/logo.png"></a> </div> <div class="q_header_tnav"> <ul> <li id="__loginInfo_u__" class="q_header_username"><span>请</span><a id="__headerInfo_login__" href="http://user.qunar.com/passport/login.jsp?ret=http%3A%2F%2Fhotel.qunar.com%2Fcity%2Fbeijing_city%2Fdt-20438%2F%3Fin_track%3Dhotel_recom_beijing_city02" hidefocus="on" rel="nofollow">登录</a></li> <li id="__loginInfo_r__" class="q_header_register"><span>或</span><a id="__headerInfo_reg__" href="http://user.qunar.com/passport/register.jsp?ret=http%3A%2F%2Fhotel.qunar.com%2Fcity%2Fbeijing_city%2Fdt-20438%2F%3Fin_track%3Dhotel_recom_beijing_city02" hidefocus="on" rel="nofollow">免费注册</a></li> <li id="__loginInfo_t__" class="q_header_tnav_menu" style="display: none;"> <dl id="__loginInfo_l__"> <dt>我的酒店<b></b></dt> <dd><a href="http://hotel.qunar.com/myfavorite.jsp" hidefocus="on" rel="nofollow">我的收藏</a></dd> <dd><a href="http://review.qunar.com/mall/index.htm" hidefocus="on" rel="nofollow">积分商城</a></dd> <dd><a href="http://tips.qunar.com" hidefocus="on" rel="nofollow">点评社区</a></dd> <dd><a href="http://hotel.qunar.com/mypic.jsp" hidefocus="on" rel="nofollow">我的图片</a></dd> <dd><a href="http://hotel.qunar.com/eh/myeh.jsp" hidefocus="on" rel="nofollow">其他贡献</a></dd> <dd><a href="http://hotel.qunar.com/myqa.jsp" hidefocus="on" rel="nofollow">我的问答</a></dd> </dl> </li> <li class="q_header_message qm-hide-dp  " id="li_message"><div class="q_header_qm_inner"><a id="q_header_btn_message" href="http://user.qunar.com/message/list" class="" aria-haspop="true"><i class=""></i><span class="qm_text">消息</span><b class="q_header_message_count "></b><b class="q_header_qm_arrow"></b></a></div><div class="q_header_qm_dp qm_dp_autoshow" aria-hidden="true"><div class="q_header_qm_body"></div></div><div class="q_header_qm_dp q_header_qm_dp_hover" aria-hidden="true"><div class="q_header_qm_body"><div class="q_header_qm_no_msg">暂无新消息</div></div><div class="q_header_qm_footer"><a class="qm_foote_right" target="_blank" href="http://user.qunar.com/message/list">查看更多</a></div></div></li><li class="q_header_tnav_omenu" id="__orderInfo_l__"> <dl> <dt><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Fuser.qunar.com%2Fflight_toolbox.jsp%3Fcatalog%3Downorders%26from%3Dmyorder&amp;jump=0" class="q_header_tnav_omenu_link" id="q_header_tnav_omenu_link"><span class="q_header_tnav_omenu_title" id="__orderInfo_t__">查看订单<b id="__orderInfo_b__"></b></span></a></dt> <dd id="__orderInfo_w__"> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fflight%2F%3Ft%3D1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderFlight__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">机票订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fhotel%2F%3Ffrom%3Dmyorder" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderHotel__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">酒店订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fapartment?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderApartment__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">公寓订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fgroup?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderGroup__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">团购订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Fdujia.qunar.com%2Fmyorder.jsp%3Ffrom%3Dmyorder" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderVacation__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">度假订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fticket?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderTicket__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">门票订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Ftrain?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderTrain__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">火车票订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fbus?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderBus__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">汽车票订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fcar?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderCar__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">车车订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fqmall?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderQmall__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">Q商城订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Flocal?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderDdr__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">当地人订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="http://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fpay?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderDdr__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">金融订单</span></a></div> <div class="q_header_tnav_omenu_item"><a href="https://user.qunar.com/passport/login.jsp?ret=http://order.qunar.com/qunar_card/?t=1" target="_blank" hidefocus="on" rel="nofollow" data-name="__link_orderDdr__" id="__tnav_card_order__" class="q_header_tnav_omenu_m"><span class="q_header_tnav_omenu_ordertips">礼品卡订单</span></a></div> </dd> </dl> </li> <li><a href="http://review.qunar.com/mall/index.htm?from=hoteltopheader" target="_top" rel="nofollow" id="__link_mall__">积分商城</a> </li><li class="last"><a href="http://help.qunar.com/" target="_top" rel="nofollow" id="__link_contact__">联系客服</a> </li> </ul> </div> <div class="q_header_mnav"> <ul> <li class="qhf_home"> <a href="http://www.qunar.com/" target="_top" hidefocus="on" id="__link_home__" class="q_header_navlink"><span><b>首页</b></span></a> </li> <li class="qhf_flight"> <a href="http://flight.qunar.com/" target="_top" hidefocus="on" id="__link_flight__" class="q_header_navlink"><span><b>机票</b></span></a> </li> <li class="qhf_hotel"> <a href="http://hotel.qunar.com/" target="_top" hidefocus="on" id="__link_hotel__" class="q_header_navlink"><span><b>酒店</b></span></a> </li> <li class="qhf_tuan"> <a href="http://tuan.qunar.com/" target="_top" hidefocus="on" id="__link_tuan__" class="q_header_navlink"><span><b>团购</b></span></a> </li> <li class="qhf_package"> <a href="http://dujia.qunar.com/" target="_top" hidefocus="on" id="__link_package__" class="q_header_navlink"><span><b>度假</b></span></a> </li> <li class="qhf_piao"> <a href="http://piao.qunar.com/" target="_top" hidefocus="on" id="__link_piao__" class="q_header_navlink"><span><b>门票</b></span></a> </li> <li class="qhf_train"> <a href="http://train.qunar.com/" target="_top" hidefocus="on" id="__link_train__" class="q_header_navlink"><span><b>火车票</b></span></a> </li> <li class="qhf_travel"> <a href="http://travel.qunar.com/?from=header" target="_top" hidefocus="on" id="__link_travel__" class="q_header_navlink"><span><b>攻略</b></span></a> </li> <li class="qhf_gongyu"> <a href="http://gongyu.qunar.com/" target="_top" hidefocus="on" id="__link_gongyu__" class="q_header_navlink"><span><b>公寓</b></span></a> </li> <li class="qhf_ddr"> <a href="http://i.qunar.com/" target="_top" hidefocus="on" id="__link_ddr__" class="q_header_navlink q_header_navlink_ddr"><span><b>当地人</b></span></a> </li> <li class="qhf_car"> <a href="http://car.qunar.com/?from=186" target="_top" hidefocus="on" id="__link_car__" class="q_header_navlink"><span><b>车车</b></span></a> </li> <li class="qhf_bus"> <a href="http://bus.qunar.com/" target="_top" hidefocus="on" id="__link_bus__" class="q_header_navlink"><span><b>汽车票</b></span></a> </li> <li class="qhf_haiwai"> <a href="http://haiwai.qunar.com/" target="_top" hidefocus="on" id="__link_haiwai__" class="q_header_navlink"><span><b>海外</b></span></a> </li> <li class="qhf_navmore" id="__header_navmore__"> <a href="javascript:void(0)" target="_top" hidefocus="on" class="q_header_navlink q_header_navlink_more"><span><b>更多</b></span><i></i></a> <div class="q_header_navmore-con" id="__header_navmore_con__"> <a href="http://haiwai.qunar.com/" target="_top" hidefocus="on" id="__link_haiwai_navmore__" class="q_header_navlink"><span><b>海外</b></span></a> <a href="http://bao.qunar.com/?from=tierone_nav_pc" target="_top" hidefocus="on" id="__link_card_navmore__" class="q_header_navlink"><span><b>保险</b></span></a> <a href="https://jr.qunar.com/ious/index.htm" target="_top" hidefocus="on" id="__link_jr_navmore__" class="q_header_navlink"><span><b>金融</b></span></a> <a href="http://huichang.qunar.com/" target="_top" hidefocus="on" id="__link_mice_navmore__" class="q_header_navlink"><span><b>会场</b></span></a> </div> </li> <li class="qhf_card"> <a href="http://bao.qunar.com/?from=tierone_nav_pc" target="_top" hidefocus="on" id="__link_card__" class="q_header_navlink"><span><b>保险</b></span></a> </li> <li class="qhf_jr"> <a href="https://jr.qunar.com/ious/index.htm" target="_top" hidefocus="on" id="__link_jr__" class="q_header_navlink"><span><b>金融</b></span></a> </li> <li class="qhf_mice"> <a href="http://huichang.qunar.com/" target="_top" hidefocus="on" id="__link_mice__" class="q_header_navlink"><span><b>会场</b></span></a> </li> </ul> <div id="__header_nav_tags__" class="q_header_tags"> <img src="//source.qunarzz.com/common/hf/tags/quanjia.gif" class="qhf_tag_gongyu"> <img src="//source.qunarzz.com/common/hf/tags/mp-daytrip.png" class="qhf_tag_piao"> <img src="//s.qunarzz.com/package/header/dujia_jqfb.png" class="qhf_tag_package"> <img src="//source.qunarzz.com/common/hf/tags/local.gif" class="qhf_tag_local" style="display: block;"> <img src="//source.qunarzz.com/common/hf/tags/insure.gif" class="qhf_tag_card"> <img src="//s.qunarzz.com/m_bus_search/images/bus.png" class="qhf_tag_bjcx"> <img src="//source.qunarzz.com/common/hf/tags/jr_v1.gif" class="qhf_tag_jr"> <img src="//source.qunarzz.com/common/hf/tags/car.gif" class="qhf_tag_car"> <img src="//source.qunarzz.com/common/hf/tags/haiwai.gif" class="qhf_tag_haiwai"> </div> <div class="q_header_aside" id="__header_aside_package__" style="left:124px;"> <a href="https://dujia.qunar.com/?tf=djnavkj_index"><span>度假首页</span></a> <a href="https://i.qunar.com/?tf=djnavkj_haiwaiwanle"><span>海外玩乐</span></a> <a href="https://fh.dujia.qunar.com/?tf=package"><span>自由行</span></a> <a href="https://dujia.qunar.com/p/abroad/?tf=djnavkj_abroad"><span>出境游</span></a> <a href="https://dujia.qunar.com/tejia/?tf=djnavkj_tejia"><span>特卖</span></a> <a href="https://dujia.qunar.com/p/around/?tf=djnavkj_around"><span>周边游</span></a> <a href="https://dujia.qunar.com/p/youlun/?tf=djnavkj_youlun"><span>邮轮</span></a> <a href="https://dujia.qunar.com/visa/?tf=djnavkj_visa"><span>签证</span></a> <a href="https://dujia.qunar.com/global/?tf=djnavkj_haiwaigouwu" class="qhf_hot"><span>海外购物</span><i class="qhf_hot"></i></a> <a href="https://diy.dujia.qunar.com/?tf=djnavkj_diy"><span>包团·定制</span></a> <a href="https://dujia.qunar.com/ins/agg/index.qnr?tf=dj_ins"><span>旅行保险</span><i class="new"></i></a> <!-- <a href="https://dujia.qunar.com/p/domestic/?tf=djnavkj_domestic"><span>国内游</span></a> --> <!-- <a href="https://dujia.qunar.com/p/tuan/?tf=djnavkj_tuan"><span>团购</span></a> --> <span class="q_header_blank"></span> </div> <div class="q_header_aside" id="__header_aside_travel__" style="left:300px;"> <a href="http://travel.qunar.com/?from=header"><span>攻略首页</span></a> <a href="http://travel.qunar.com/travelbook/list.htm?order=hot_heat"><span>攻略库</span></a> <a href="http://travel.qunar.com/place/?from=header"><span>目的地</span></a> <!--<a href="http://travel.qunar.com/bbs/?from=header"><span>论坛</span></a>--> <a href="http://travel.qunar.com/plan/first?from=header"><span>创建行程</span></a> <a href="http://travel.qunar.com/youji/create?from=header" class="qhf_hot"><span>发表游记</span><i class="qhf_hot"></i></a> <a href="http://guide.qunar.com/"><span>骆驼书</span></a> <span class="q_header_blank"></span> </div> <div class="q_header_aside" id="__header_aside_piao__" style="left:177px;"> <a href="http://piao.qunar.com/"><span>国内门票</span></a> <a href="http://piao.qunar.com/daytrip/list.htm" class="qhf_hot"><span>品质一日游</span><i class="qhf_hot"></i></a> <a href="http://piao.qunar.com/overseas/"><span>玩转海外</span></a> <a href="http://piao.qunar.com/topic/gat1409.htm"><span>港澳台门票</span></a> <a href="http://piao.qunar.com/ticket/vista.htm"><span>地图找景点</span></a> <a href="http://sale.piao.qunar.com/topic/mk/2205.htm"><span>厦门老院子</span><i class="new"></i></a> <a href="http://sale.piao.qunar.com/topic/mk/2315.htm"><span>壮美内蒙古</span><i class="new"></i></a> <span class="q_header_blank"></span> </div> <div class="q_header_aside" id="__header_aside_tuan__" style="left:71px"> <a href="http://tuan.qunar.com/#PAGE/L2JzbmVzL3R1YW5XZWIvbGlzdA__/category/aG90ZWw_"><span>酒店团购</span></a> <a href="http://tuan.qunar.com/vc/index.php?category=around"><span>周边休闲</span></a> <a href="http://tuan.qunar.com/vc/index.php?category=travel_d"><span>长线游</span></a> <span class="q_header_blank"></span> </div> <div class="q_header_aside" id="__header_aside_jr__" style="left:750px"> <a href="https://jr.qunar.com/ious/index.htm"><span>拿去花</span></a> <a href="http://bao.qunar.com/?from=qunar_nav_pc"><span>保险商城</span></a> <span class="q_header_blank" style="left: 54px;"></span> </div> <div class="q_header_aside" id="__header_aside_ddr__" style="left:406px"> <a href="http://i.qunar.com?tf=ejsy"><span>当地人首页</span></a> <a href="http://i.qunar.com/web/search/index?q=%E5%87%BA%E5%A2%83WiFi&amp;tf=ejcjwf" class="qhf_hot"><span>出境WiFi</span><i class="qhf_hot"></i></a> <a href="http://i.qunar.com/web/search/index?q=%E6%97%85%E6%B8%B8%E5%8C%85%E8%BD%A6&amp;tf=ejlybc"><span>旅游包车</span></a> <a href="http://i.qunar.com/web/search/index?tm=i02&amp;q=%E4%B8%80%E6%97%A5%E6%B8%B8&amp;tf=ejyry"><span>一日游</span></a> <a href="http://i.qunar.com/web/search/index?q=%E5%AF%BC%E6%B8%B8%E8%AE%B2%E8%A7%A3&amp;tf=ejdyjj"><span>导游讲解</span></a> <a href="http://i.qunar.com/web/search/index?q=%E4%BA%A4%E9%80%9A%E5%8D%A1&amp;tf=ejjtk"><span>交通卡</span></a> <span class="q_header_blank q_header_blank_ddr"></span> </div> </div> <a class="q_header_app_logo" href="http://app.qunar.com/"></a>
+</div> <div class="q_header_sub"> <div class="q_header_sub_inner"> <ul class="q_header_sub_nav"> <li class="home"><a href="http://hotel.qunar.com/#&amp;QHFP=ZSD_15911F9E" hidefocus="on">酒店搜索</a></li> <li class="bnb"><a href="http://bnb.qunar.com/#&amp;QHFP=ZSD_15911F9E" hidefocus="on">客栈民宿</a></li> <li class="inter"><a href="http://hotel.qunar.com/global/#&amp;QHFP=ZSD_15911F9E" hidefocus="on">国际酒店</a></li> <li class="tuan"><a href="http://tuan.hotel.qunar.com#from=tuanIndex" hidefocus="on">酒店团购</a></li> <li class="luxury"><a href="http://lh.qunar.com/#&amp;QHFP=ZSD_15911F9E" hidefocus="on">高端酒店</a></li> <li class="mice"><a href="http://huichang.qunar.com/#from=hotelNav" hidefocus="on">会场预订<em class="new">新</em></a></li> </ul> <ul class="q_header_sub_side"> <li class="ugc"><a href="http://tips.qunar.com/" hidefocus="on"><em></em>点评社区</a></li> <li class="ugc_mall"><a href="http://review.qunar.com/mall/index.htm" hidefocus="on">积分商城</a></li> <li class="hotel_msgs" id="__ugcTips_l__"> <a href="javascript:void(0);" class="js-link" hidefocus="on"><em></em></a> <div class="msg_pop hide js-pop"> <div class="pointer"></div> <ul class="js-domList"> </ul> </div> </li> </ul> <p class="q-header-ad-container" id="subNavAd"></p> </div> </div> <script id="hf-script" src="//common.qunarzz.com/hf_qzz/prd/scripts/hotel/header_main@3e6e2ca66d1ed2d81fe2309fdc07378f.js"></script> 
+</div>
+<!-- header end -->
+
+    <!--header end -->
+    <!--搜索条件:star-->
+    <div class="b_listsearchwrap" style="" id="keysearch">
+        <form id="sForm" name="sForm" method="get" action="/search.jsp" target="_blank">
+            <div class="e_listsearch">
+                <div class="e_listsearch_ct clr_after">
+                    <div class="e_listsearch_form">
+                        <ul>
+                            <li class="b_city">
+                                <div class="qcbox qcity">
+                                    <div class="labelContainer">目的地</div><div class="boxWrapper"><div id="mainXI2" class="boxContainer"><div id="sinfoXI2" class="sinfo"></div><div class="sicon"></div><div style="clear:both"></div></div></div><input autocomplete="off" maxlength="50" value="" name="toCity" id="toCity" class="textbox">
+                                <div class="popContainer"></div></div>
+                            </li>
+                            <li class="b_date ui-date-in">
+                                <div class="qcbox qdate fromD">
+                                    <div class="labelContainer">入住</div><div class="boxWrapper"><div id="mainXI4" class="boxContainer"><div id="sinfoXI4" class="sinfo" title="">明天</div><div class="sicon"></div><div style="clear:both"></div></div></div><input autocomplete="off" maxlength="10" name="fromDate" value="" id="fromDate" class="textbox">
+                                <div class="popContainer"></div></div>
+                            </li>
+                            <li class="b_date mr8 ui-date-out">
+                                <div class="qcbox qdate fromD">
+                                    <div class="labelContainer">离店</div><div class="boxWrapper"><div id="mainXI5" class="boxContainer"><div id="sinfoXI5" class="sinfo" title="">后天</div><div class="sicon"></div><div style="clear:both"></div></div></div><input autocomplete="off" maxlength="10" name="toDate" value="" id="toDate" class="textbox">
+                                <div class="popContainer"></div></div>
+                            </li>
+                            <li class="b_keyword">
+                                <div class="qcbox qqc">
+                                    <div class="labelContainer"><div class="poi-add js-address"></div><div class="poi-hotel js-hotelname"></div></div><div class="boxWrapper"><div id="mainXI3" class="boxContainer"><div id="sinfoXI3" class="sinfo infotext" title="">(选填)酒店名、地标、商圈，可组合搜索</div><div class="sicon"></div><div style="clear:both"></div></div></div><input autocomplete="off" maxlength="50" value="" name="q" class="textbox">
+                                <div class="popContainer"></div></div>
+                            </li>
+                            <input type="hidden" name="from" value="Dsearch" id="fromTop">
+                            <input type="hidden" name="cityurl" value="beijing_city">
+                            <li class="b_search_box_area_btn">
+                                <button class="btn" type="submit"></button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        <input type="hidden" name="QHFP" value="ZSD_15911F9E"></form>
+    </div>
+    <!--搜索条件:end-->
+    <!--动态底纹广告 start-->
+    <abbr style="display:none;" data-type="qde" id="hotel_active_dynamic" data-query="chan=hotel&amp;pg=detail&amp;site=qunar&amp;type=dynamic_skinned" data-style="width:100%;"></abbr>
+    <!--动态底纹广告 end-->
+    <!--qn_page start-->
+    <div class="b_wrap">
+        <div class="b-crumbs">
+            <!--面包屑和百宝箱 start-->
+            <div class="d-wt980 b-pos">
+                    <span class="joinbbx">
+                        <a rel="nofollow" href="http://hotel.qunar.com/city/beijing_city/dt-20438/comment_edit.html?type=correction" target="_blank" hidefocus="on" id="correctionBread">信息纠错</a>|<a rel="nofollow" href="http://ebooking.qunar.com?from=jd-xq-ysj" target="_blank" title="酒店百宝箱">酒店百宝箱</a>
+                    </span>
+                    <span class="bread-crumbs">
+                        <a href="/" target="_blank">酒店首页</a>
+                            <a target="_blank" href="../#from=l-breadcrumbs" id="js_breadcrumbs_city">北京酒店</a>
+                            <a id="js_breadcrumbs_brand" target="_blank" href="/city/beijing_city/q-%E5%81%87%E6%97%A5">北京假日酒店</a>
+                        <span title="北京石景山景园假日酒店">北京石景山景园假日酒店</span>
+                    </span>
+            </div>
+        </div>
+        <!--面包屑和百宝箱 end-->
+        <div class="qn_page">
+            <!--对联广告 start-->
+            <div class="dlAd" id="ad_active_container">
+                <div class="dll">
+                    <abbr id="home_active_couplet_left" style="display:none;" data-style="width:120px;"></abbr>
+                </div>
+                <div class="dlr">
+                    <abbr id="home_active_couplet_right" style="display:none;" data-style="width:120px;"></abbr>
+                    <abbr style="display:none;" data-type="qde" data-query="chan=hotel&amp;pg=detail&amp;pos=right&amp;site=qunar&amp;size=120x300&amp;type=couplet&amp;TransactionID=1311529" id="couplet_load"></abbr>
+                </div>
+            </div>
+            <!--对联广告 end-->
+            <!--顶部通栏  start-->
+            <div id="middleTopAdContainer" class="midbanner">
+                <abbr style="display:none;" data-type="qde" id="middleTopAd" data-query="chan=hotel&amp;pg=detail&amp;pos=top&amp;site=qunar&amp;size=970x85" data-style="text-align:center;width:100%;"></abbr>
+            </div>
+            <!--顶部通栏 end-->
+            <!--酒店简介与图片:start-->
+            <!--酒店简介:start-->
+            <div class="d-wt980 b-htl-concept mt15 clrfix">
+                <!--基础信息 start-->
+                <div class="d-wt705 htl-baseinfo clrfix">
+                    <div class="htl-pic fl" id="brandLogo">
+                            <script>var  isBrandHotel = true; </script>
+                            <a href="http://holidayinn.hotel.qunar.com/" target="_blank"><img width="50" height="50" src="http://source.qunar.com//site/images/brandlogo/square50/jiari_0.png"></a>
+                            <div class="g-elastic-layer">
+                                <div class="g-elastic-main">
+                                    <div class="g-arrow">
+                                        <div class="top"></div>
+                                        <div class="bottom"></div>
+                                    </div>
+                                    <div class="inner">
+                                        <h5>假日</h5>
+                                        <p>清新，现代，前所未有。今天的假日®酒店提供舒适、熟悉的氛围，宾客们在这里可以尽情放松和享受各种便利设施，如高速无线网络、餐厅、健身中心和舒适的酒廊 -以及儿童免费餐饮与住宿。商务与休闲的完美融合，适合当今寻求舒适感受的旅客。
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="htl-info fr" id="detail_pageHeader">
+                        <h2>
+                            <span>北京石景山景园假日酒店</span>
+                            <!--detail页添加酒店榜单图标、子榜单名称-->
+                                <em class="dangci" title="去哪儿网用户评定为高档型酒店">高档型</em>
+                        </h2>
+                        <p class="adress">
+                            <!--酒店描述 start-->
+                            <span title="北京石景山区田村路555号">北京石景山区田村路555号
+                                (
+                                    <cite><a class="js_address_area" title="点击查看该城市所有符合该条件的酒店" target="_blank" href="/city/beijing_city/q-%E8%8B%B9%E6%9E%9C%E5%9B%AD"><del>苹果园</del></a></cite>)
+                            </span>
+                            <!-- POI信息一句话描述 -->
+                            <span class="h_desc" id="hotelDesc"></span>
+                            <script type="text/javascript" src="http://q.qunarzz.com/hotel_fekit/prd/scripts/hotelDescRender@bba918ecc58d623ad656da214265bb2e.js"></script>
+                            <!--酒店描述 end-->
+                                        &nbsp;<a rel="nofollow" class="view-map view-mapcolor hide" href="#" title="查看地图" id="mapBread"><i class="icon-smap m-gray"></i>查看地图</a>
+                        </p>
+                    </div>
+                </div>
+                <!--基础信息 end-->
+                <!--价格:star-->
+                <div class="d-wt260 relative fr">
+                    <div class="b-price">
+                        <div id="anchorPrice" data-os="营业中">
+                                <div class="tatus"></div>
+                        </div>
+                        <div class="collect-htl" id="favLinks">
+                            <a href="#" onclick="return false" id="addfavorite" target="_blank" class=""><i class="hollow"></i><strong>收藏酒店</strong></a>
+                        </div>
+                        <div class="collect-htl hide" id="favoriteStatus">
+                            <a href="http://hotel.qunar.com/myfavorite.jsp" target="_blank"><i class="sincere"></i><strong>已收藏</strong></a>
+                        </div>
+                    </div>
+                </div>
+                <!--价格:end-->
+            </div>
+            <!--酒店简介:end-->
+            <!--图片:start-->
+            <div class="d-wt980 b-htl-interainfo mt10 clrfix">
+                <div class="d-wt705 fl htl_info" id="js-hotelDetailInfo">
+                    <!--有酒店图片:star-->
+                    <div class="htl-piclist clrfix" id="detail_hotel_pic">
+                        <!--鼠标移到图片上，则加CLASS值：m-htl-pic-hover-->
+                        <div class="m-htl-pic fl" id="mainImg">
+                            <a onclick="return false;" href="#" target="_self" data-imageid="201703/26/C._M0DCiczs6I-Bh08i">
+                                <img src="http://userimg.qunar.com/imgs/201703/26/C._M0DCiczs6I-Bh08i480s.jpg" class="js-headImageContainer">
+                            </a>
+                            <div class="pic-amount">
+                                <div class="amount png24">
+                                    <h6>
+                                        <a target="_blank" rel="nofollow" href="/city/beijing_city/dt-20438/comment_edit.html?type=photo&amp;detail=3#from=upload" title="上传图片" id="uploadImg" class="upload-img">上传图片</a>
+                                        <a target="_blank" href="/city/beijing_city/dt-20438/image.html#from=image" id="imgTotal">180张图片</a>
+                                    </h6>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="fl htl-pic-slist" id="smallImages">
+                            <!--鼠标移到图片上，则加CLASS值：current-->
+                                    <li>
+                                        <a onclick="return false;" data-imageid="201705/31/C._M0DCicEoXr6Zw4Ii" target="_self" href="#">
+                                            <img class="js-titleImageContainer" src="http://himg1.qunarzz.com/imgs/201705/31/C._M0DCicEoXr6Zw4Ii120.jpg" onerror="this.src='http://source.qunar.com/hotel/detail/htl_spic_defult.jpg';">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a onclick="return false;" data-imageid="201705/31/C._M0DCicEoXzyn1Myi" target="_self" href="#">
+                                            <img class="js-titleImageContainer" src="http://himg3.qunarzz.com/imgs/201705/31/C._M0DCicEoXzyn1Myi120.jpg" onerror="this.src='http://source.qunar.com/hotel/detail/htl_spic_defult.jpg';">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a onclick="return false;" data-imageid="201604/28/C._M0DCiyKe8v-iJfhi" target="_self" href="#">
+                                            <img class="js-titleImageContainer" src="http://himg2.qunarzz.com/imgs/201604/28/C._M0DCiyKe8v-iJfhi120.jpg" onerror="this.src='http://source.qunar.com/hotel/detail/htl_spic_defult.jpg';">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a onclick="return false;" data-imageid="201702/24/C._M0DCici02V8Evxji" target="_self" href="#">
+                                            <img class="js-titleImageContainer" src="http://himg4.qunarzz.com/imgs/201702/24/C._M0DCici02V8Evxji120.jpg" onerror="this.src='http://source.qunar.com/hotel/detail/htl_spic_defult.jpg';">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a onclick="return false;" data-imageid="201610/13/C._M0DCiL-1waeJXYPi" target="_self" href="#">
+                                            <img class="js-titleImageContainer" src="http://himg1.qunarzz.com/imgs/201610/13/C._M0DCiL-1waeJXYPi120.jpg" onerror="this.src='http://source.qunar.com/hotel/detail/htl_spic_defult.jpg';">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a onclick="return false;" data-imageid="201702/23/C._M0DCiciJU4m5mAoi" target="_self" href="#">
+                                            <img class="js-titleImageContainer" src="http://himg3.qunarzz.com/imgs/201702/23/C._M0DCiciJU4m5mAoi120.jpg" onerror="this.src='http://source.qunar.com/hotel/detail/htl_spic_defult.jpg';">
+                                        </a>
+                                    </li>
+
+                        </ul>
+                    </div>
+                    <!--有酒店图片:end-->
+                </div>
+                <div class="d-wt260 fr">
+                    <div class="b-lastreview">
+                        <div id="lastInfo"></div>
+                        <!--有地图:star-->
+                        <div class="s-traffic-map" id="trafficMapAnchor">
+                            <div class="map-radious png24"></div>
+                            <div class="map-picbg"><img src="http://source.qunar.com/hotel/detail/mapbg.png"></div>
+                            <a href="#" class="view-traffic" title="查看位置与交通">查看位置与交通</a>
+                        </div>
+                        <!--有地图:end-->
+                    </div>
+                </div>
+            </div>
+            <!--图片:end-->
+            <!--酒店简介与图片:end-->
+            <script type="text/javascript">
+                var phoneNumber = '010-88770808';
+                var miniRetailPrice = '533';
+
+                function showPhoneNumber() {
+                    document.getElementById('phoneNumber').style.display = '';
+                    document.getElementById('phoneTip').style.display = 'none';
+                    trackAction('HZ|ztc|phone|'+hotelSEQ);
+                }
+            </script>
+            <!--特惠推荐 start-->
+            <div id="wholeprice" class="hide"></div>
+            <!--特惠推荐 end-->
+            <!--一口价搜索Detail页入口 start-->
+            <div id="fppanel" class="fixprice_entrance hide"></div>
+            <div id="fphotelpanel" class="hide"></div>
+            <!--一口价搜索Detail页入口 end-->
+            <!--app折扣信息:star-->
+            <div class="d-wt980 mt10 weixin-wrap" onclick="window.GARunerById( window['_ba_utm_s'], '微信大礼包');window.open('http://tuan.qunar.com/ext/sact/uiqQFv')">
+                <div class="weixin-hb"><img src="http://simg1.qunarzz.com/hotel/detail/weixin_left.gif"></div>
+                <div class="weixin-txt">APP专享红包，预订新客专享报价，最高可减<span class="weixin-num">60元</span>
+                </div>
+                <div class="weixin-btnwrap">免费领取</div>
+            </div>
+            <!--app折扣信息:end-->
+
+            <!--酒店详情页tab标题:start-->
+            <div class="d-wt980 b-dttabtitle mt10">
+                <div class="tab-ceiling detail-tab-show" id="detailTab">
+                    <div class="detail-tab-title clrfix detail-tab-show">
+                        <ul class="htl-txt-list" id="js-tuanAD">
+                            <li id="tuanbox"></li>
+                            <li id="fixpricebox"></li>
+                        </ul>
+                        <div class="low-price js_click" data-for="#hPriceSearch"></div>
+                        <ul class="title-tabs">
+                            <li data-for="#hPriceSearch" class="js_click current"><a href="#" title="房型预订">房型预订</a></li>
+                            <li id="grouproomTab" data-for="#groupRoomContainer" class="js_click" style="display: none;position: relative;"><a href="#" title="团房预订">团房预订</a><i class="gr-tag"></i></li>
+                            <li data-for="#d-traffic" class="js_click"><a href="#" title="位置交通">位置交通</a></li>
+                            <li data-for="#jxDescTab" class="js_click"><a href="#" title="设施概况">设施概况</a></li>
+                            <li data-for="#js_CommentContainer" class="js_click"><a href="#" title="点评问答">点评问答</a></li>
+                            <li class="cash-back"><a href="http://hotel.qunar.com/cpcCashBack.jsp" target="_blank" class="cach-icon" id="js-cash-back"><b>如何返现</b></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--酒店详情页tab标题:end-->
+            <!--重新搜索 start-->
+            <div class="d-wt980 b-dtsearch">
+                <div class="search-filer" id="hPriceSearch"><div class="search-inner"><a name="hPrice" id="hPrice"></a>
+    <table cellspacing="0" cellpadding="0">
+        <tbody>
+        <tr>
+            <td class="calendar-title">入住时段</td>
+            <td valign="top" class="c1 ui-date-in">
+                <div class="qcbox qdate fromD">
+                    <div class="labelContainer">入住</div>
+                    <div class="labelContainer">入住</div><div class="boxWrapper"><div id="mainXI0" class="boxContainer"><div id="sinfoXI0" class="sinfo" title="">明天</div><div class="sicon"></div><div style="clear:both"></div></div></div><input autocomplete="off" maxlength="10" name="refromDate" value="2017-11-07" class="js-fromDate textbox">
+                <div class="popContainer"></div></div>
+            </td>
+            <td valign="top" class="c2 ui-date-out">
+                <div class="qcbox qdate toD">
+                    <div class="labelContainer">离店</div>
+                    <div class="labelContainer">离店</div><div class="boxWrapper"><div id="mainXI1" class="boxContainer"><div id="sinfoXI1" class="sinfo" title="">后天</div><div class="sicon"></div><div style="clear:both"></div></div></div><input autocomplete="off" maxlength="10" name="retoDate" value="2017-11-08" class="js-toDate textbox">
+                <div class="popContainer"></div></div>
+
+                <div class="m-evenlive-promotion" style="display: none;">
+                    <div class="promotion-pop">
+                        <div class="top"></div>
+                        <p>连住3晚享每晚<cite>¥</cite>511起<span class="stay-promotion">[多住一晚]</span></p>
+                    </div>
+                </div>
+
+            </td>
+            <td class="js-day-count htl-account-tip">共1晚</td>
+            <td valign="top" class="c3"><span class="btn-research"><a class="js-btn-research" href="javascript:void(0);"><b>重新搜索</b></a></span>
+            </td>
+            <td class="js-lastBooking booking-date" style="display: block;"></td>
+        </tr>
+        </tbody>
+    </table>
+    <div id="otaActivitiesTip"></div>
+</div></div>
+                <!--重新搜索 end-->
+                <!--房型工具 start-->
+                <div id="pricePanel" class="d-wt980 b-room-tools">
+                    <div class="room-tools-content">
+                        <!--房型工具 报价 start-->
+                        <div id="roomTool" class="htl-type-content"><div class="b_loading bordertop" id="loadingDiv" style="display: block;">
+    <div class="e_loading">
+        <p class="msg">请稍等,您查询的结果正在实时搜索中...</p>
+
+        <div><img id="flashAdImg" src="//simg1.qunarzz.com/site/images/loading.gif" alt="loading" height="16" width="114"></div>
+        <p class="msg2">想去哪儿就去哪儿</p>
+    </div>
+    <p class="msg3"> 如果您在60秒后仍无法看到搜索结果，请同时按下键盘上的<b>Ctrl+F5</b>强制刷新页面</p>
+</div><div class="m-room-tools" style="display: none;">
+	<div style="height:26px;">
+    <div class="js-roomtool-affix">
+        <div class="m-room-tools-hd js-roomtool-header"></div>
+    </div>
+    </div>
+    <div class="m-room-tools-bd js-roomtool-rooms">
+    </div>
+</div><div class="b-dtsearch" style="display: none;">
+    <div class="search-filer no-search">
+        <div class="no-search-inner">
+            <div class="holidays-htl bordertop">
+				暂时无法获取酒店报价，参考报价：<em class="pr">¥<b>533</b></em><br>可拨打电话预订：<b id="phoneNumber" class="pr">010-88770808</b>
+            </div>
+        </div>
+    </div>
+</div></div>
+                        <!--房型工具 报价 start-->
+                    </div>
+                </div>
+                <!--房型工具 end-->
+            </div>
+
+            <div class="d-wt980 b-dtsearch" id="groupRoomContainer" style="display: none;">
+                <div class="d-wt980 b-room-tools">
+                    <div class="room-tools-content">
+                        <h2 class="mice-title">团房预订</h2>
+                        <div id="groupRoomTool" class="htl-type-content"><div class="m-room-tools" style="display: none;">
+	<div style="height:26px;">
+    <div class="js-roomtool-affix">
+        <div class="m-room-tools-hd js-roomtool-header"></div>
+    </div>
+    </div>
+    <div class="m-room-tools-bd js-roomtool-rooms">
+    </div>
+</div></div>
+                    </div>
+                </div>
+            </div>
+            <!--邻近酒店:star-->
+            <div class="d-wt980 b_nearby_htl" id="neighborHotelA" style="display:none;">
+                <div id="neighborContainer" style="display:none;" class="p_hasroom neighborHotels">
+                <div class="nearby_hotel">
+                    <div class="inner">
+                        <h6 class="room_full">当前酒店已订完，您可能对以下<b>邻近酒店</b>感兴趣</h6>
+                        <h6 class="room_normal">暂时无法获取酒店报价，您可能对以下<b>邻近酒店</b>感兴趣</h6>
+                            <div class="nearby_htllist">
+                                <div class="nearby-head">
+                                    <table border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                        <tr>
+                                            <th class="near-pic">酒店图片</th>
+                                            <th class="near-info">酒店名称/评价</th>
+                                            <th class="near-distance">两酒店距离</th>
+                                            <th class="near-price">价格</th>
+                                            <th class="near-btn">&nbsp;</th>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                    <div id="nc_beijing_city_19757" class="nearby_htlitem">
+                                        <table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+                                            <td class="near-pic">
+                                                    <div class="near-spic"><a href="#"><img src="http://userimg.qunar.com/imgs/201407/28/NNNN2dH7ECJXNdGAN180.jpg"></a></div>
+                                            </td>
+                                            <td class="near-info"><div class="baseinfo">
+                                                <h3><a target="_blank" href="/city/beijing_city/dt-19757/" title="北京华北宾馆">北京华北宾馆</a></h3>
+                                                        <p class="dangci" title="去哪儿网用户评定为豪华型酒店">豪华型</p>
+                                                <div class="near-review clrfix">
+                                                    <div class="m_star m_star_mini"><div class="in" style="width:90%;"></div></div>
+                                                    <div class="score"><b>4.5</b>分</div>
+                                                </div>
+                                            </div>
+                                            </td>
+                                            <td class="near-distance">2.0公里</td>
+                                            <td class="near-price">¥<b id="ncp_beijing_city_19757">467</b>起</td>
+                                            <td class="near-btn"><a target="_blank" class="js-neighbor " href="/city/beijing_city/dt-19757">查看详情</a></td>
+                                        </tr>
+                                        </tbody></table></div>
+                                    <div id="nc_beijing_city_26719" class="nearby_htlitem">
+                                        <table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+                                            <td class="near-pic">
+                                                    <div class="near-spic"><a href="#"><img src="http://userimg.qunar.com/imgs/201409/16/NNNN2dNFg4WhjOw0N180.jpg"></a></div>
+                                            </td>
+                                            <td class="near-info"><div class="baseinfo">
+                                                <h3><a target="_blank" href="http://bnb.qunar.com/city/beijing_city/dt-26719/" title="北京安然驿站公寓黄南苑店">北京安然驿站公寓黄南苑店</a></h3>
+                                                        <p class="dangci" title=""></p>
+                                                <div class="near-review clrfix">
+                                                    <div class="m_star m_star_mini"><div class="in" style="width:84%;"></div></div>
+                                                    <div class="score"><b>4.2</b>分</div>
+                                                </div>
+                                            </div>
+                                            </td>
+                                            <td class="near-distance">1.6公里</td>
+                                            <td class="near-price">¥<b id="ncp_beijing_city_26719">488</b>起</td>
+                                            <td class="near-btn"><a target="_blank" class="js-neighbor " href="http://bnb.qunar.com/city/beijing_city/dt-26719">查看详情</a></td>
+                                        </tr>
+                                        </tbody></table></div>
+                                    <div id="nc_beijing_city_28681" class="nearby_htlitem">
+                                        <table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+                                            <td class="near-pic">
+                                                    <div class="near-spic"><a href="#"><img src="http://userimg.qunar.com/imgs/201604/18/C._M0DCiyGtKFtbqNzi180.jpg"></a></div>
+                                            </td>
+                                            <td class="near-info"><div class="baseinfo">
+                                                <h3><a target="_blank" href="/city/beijing_city/dt-28681/" title="北京刘家旅店">北京刘家旅店</a></h3>
+                                                        <p class="dangci" title=""></p>
+                                                <div class="near-review clrfix">
+                                                    <div class="m_star m_star_mini"><div class="in" style="width:0%;"></div></div>
+                                                    <div class="score"><b>0</b>分</div>
+                                                </div>
+                                            </div>
+                                            </td>
+                                            <td class="near-distance">4.8公里</td>
+                                            <td class="near-price">¥<b id="ncp_beijing_city_28681">500</b>起</td>
+                                            <td class="near-btn"><a target="_blank" class="js-neighbor " href="/city/beijing_city/dt-28681">查看详情</a></td>
+                                        </tr>
+                                        </tbody></table></div>
+                                <div class="near-more">
+                                        <a target="_blank" href="/city/beijing_city">查看更多北京酒店&gt;&gt;</a>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            <!--邻近酒店:end-->
+            <!--赔计划 start-->
+            <div class="d-wt980 b-vouch mt20">
+                <h5 class="js-bao"><cite>带有</cite><a href="http://www.qunar.com/xiaobao/hotel.html" target="_blank" title="全程预订保障 去哪儿都放心"><img src="http://source.qunar.com/hotel/pixel.gif" class="icon-bao"></a><cite>保标识报价，享受全程预订保障 </cite></h5>
+                <p class="gray" id="js-anchorPositionToMap">酒店价格请以供应商实际报价为准，其他酒店信息为搜索所得，仅供参考。</p>
+            </div>
+            <!--赔计划 end-->
+            <div class="d-wt980 mt20 clrfix">
+                <div class="d-wt705 fl">
+                    <!--位置与交通:star-->
+                    <div class="d-left-module" id="d-traffic">
+                        <div class="inner m-location-traffic">
+                            <h2><span class="fr inform_error"><a rel="nofollow" class="js_mapinfo_error" href="http://hotel.qunar.com/eh/locator.jsp?seq=beijing_city_20438" title="酒店位置纠错" target="_blank">酒店位置纠错</a></span>位置交通</h2>
+                                <div class="map-content clrfix" id="jd_map">
+                                    <div class="traffic fl"><div id="bdPOIPanel"></div></div><div class="mapwrap"><div id="jxMapPanel" class="map"></div><div class="map-tip"><a target="_blank" title="查看大地图" id="js_rightMap_big">查看大地图<i class="arrow"></i></a></div></div>
+                                </div>
+                        </div>
+                    </div>
+                    <!--位置与交通:end-->
+                    <!--酒店概况:start-->
+                    <div class="d-left-module mt30">
+                        <div class="inner m-hotel-overview" id="jxDescTab">
+                            <h2 class="facility-title"><span class="fr inform_error"><a rel="nofollow" href="/city/beijing_city/dt-20438/comment_edit.html?type=correction" title="信息纠错" target="_blank">信息纠错</a></span>设施概况</h2>
+                            <div class="hotel-introduce" id="descContent">
+                                <!--酒店基本信息:start-->
+                                    <div class="base-info bordertop clrfix">
+                                        <dl class="inform-list">
+                                            <dt>联系方式</dt>
+                                            <dd>
+                                                <cite>电话010-88770808</cite>
+                                                <cite>传真010-88770998</cite>
+                                            </dd>
+                                        </dl>
+                                            <dl class="inform-list">
+                                                <dt>基本信息</dt>
+                                                <dd>
+                                                    <cite>连锁品牌（<em><a href="/city/beijing_city/q-%E5%81%87%E6%97%A5?from=Dbrand#&amp;QHFP=ZSD_15911F9E" target="_blank">假日</a></em>）</cite>
+                                                    <cite>连锁品牌</cite>
+                                                    <cite>2012年开业</cite>
+                                                    <cite>2012年最后一次装修</cite>
+                                                    <cite>211间客房</cite>
+                                                    <cite>层高4层</cite>
+                                                </dd>
+                                            </dl>
+                                            <dl class="inform-list clrfix">
+                                                <dt>酒店简介</dt>
+                                                <dd>
+                                                    <div class="introduce">
+                                                        <p>酒店位于北京市石景山区，西五环与田村路交叉点东北侧（五环内），地处五环绿化区。饭店邻近历史悠久的国家4A级旅游区八大处公园，远眺风景秀丽的香山，北伴永定河，西靠五环路，东侧为120公顷锦绣大地农业科技示范园，距北京奥林匹克射击馆乘车10分钟左右，位置十分优越，交通出行十分便利。</p>
+                                                    </div>
+                                                </dd>
+                                            </dl>
+                                    </div>
+                                    <!--酒店基本信息:end-->
+                                    <!--网络设施:star-->
+                                        <dl class="inform-list bordertop facility clrfix">
+                                        <dt>网络设施</dt>
+                                        <dd><span class="each-facility inter-width"><span title="提供此设施"><i class="icon-inter green"></i>酒店各处提供wifi</span></span></dd>
+                                    </dl>
+                                    <!--网络设施:end-->
+                                    <!--停车场 :star-->
+                                        <dl class="inform-list bordertop facility clrfix">
+                                        <dt>停车场</dt>
+                                            <dd><span class="each-facility"><span title="提供此设施"><i class="icon-stop green"></i>酒店提供<b class="green">免费</b>停车位</span></span></dd>
+                                    </dl>
+                                    <!--停车场:end-->
+                                    <!--房间设施:star-->
+                                        <dl class="inform-list bordertop facility clrfix">
+                                        <dt>房间设施</dt>
+                                        <dd>
+                                                <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>宽带上网</span></span>
+                                            <span class="each-facility"><span title="暂无此设施"><i class="icon-correct dark-grey"></i><b class="gray">免费市内电话</b></span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>空调</span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>国际长途电话</span></span>
+                                            <span class="each-facility"><span title="暂无此设施"><i class="icon-correct dark-grey"></i><b class="gray">免费国内长途电话</b></span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>吹风机</span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>24小时热水</span></span>
+                                            
+                                        </dd>
+                                    </dl>
+                                    <!--房间设施:end-->
+                                    <!--酒店服务:star-->
+                                        <dl class="inform-list bordertop facility clrfix">
+                                        <dt>酒店服务</dt>
+                                        <dd>
+                                                <span class="each-facility">
+                                                    <span title="提供此服务"><i class="icon-correct green"></i>早餐服务
+                                                                <b class="red">¥88</b>
+                                                    </span>
+                                                </span>
+                                                    <span class="each-facility"><span title="暂无此服务"><i class="icon-correct dark-grey"></i><b class="gray">接站服务</b></span></span>
+                                                    <span class="each-facility"><span title="暂无此服务"><i class="icon-correct dark-grey"></i><b class="gray">接机服务</b></span></span>
+                                            <span class="each-facility"><span title="提供此服务"><i class="icon-correct green"></i>接待外宾</span></span>
+                                            <span class="each-facility"><span title="提供此服务"><i class="icon-correct green"></i>洗衣服务</span></span>
+                                            <span class="each-facility"><span title="提供此服务"><i class="icon-correct green"></i>行李寄存</span></span>
+                                            <span class="each-facility"><span title="提供此服务"><i class="icon-correct green"></i>看护小孩服务</span></span>
+                                            
+                                            
+                                            <span class="each-facility"><span title="提供此服务"><i class="icon-correct green"></i>叫醒服务</span></span>
+                                        </dd>
+                                    </dl>
+                                    <!--酒店服务:end-->
+                                    <!--酒店设施:star-->
+                                    <dl class="inform-list bordertop facility clrfix">
+                                        <dt>酒店设施</dt>
+                                        <dd>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>西式餐厅</span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>中式餐厅</span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>残疾人设施</span></span>
+                                            
+                                            
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>会议室</span></span>
+                                            
+                                            
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>无烟房</span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>商务中心</span></span>
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>酒吧</span></span>
+                                            
+                                            
+                                            <span class="each-facility"><span title="提供此设施"><i class="icon-correct green"></i>棋牌室</span></span>
+                                        </dd>
+                                    </dl>
+                                    <!--酒店设施:end-->
+                            </div>
+                        </div>
+                    </div>
+                    <!--酒店概况:end-->
+                    <!--概况、砖家点评、点评等等 start-->
+                    <div class="review_faq" id="js_CommentContainer" style="display: none;">
+                        <div class="hotel_title">
+                            <ul class="hotel_tabs" id="jxToolTab">
+                                <!--<li id="j_guru" data-type="guru"><a href="javascipt:void(0);"  hidefocus="on">砖家点评<em id="js_guru_nav" class="js_commentsCount"></em></a></li>-->
+                                <li id="j_comments" data-type="comments"><a href="javascipt:void(0);" hidefocus="on">点评<em id="js_commentsCount_nav" class="js_commentsCount"></em></a></li>
+                                <li id="j_zhidao" class="" data-type="zhidao"><a href="javascipt:void(0);" hidefocus="on">问答<em id="js_qaCount"></em></a></li>
+                            </ul>
+                        </div>
+                        <div class="review_faq_ct" id="jxToolContent">
+                            <div class="comment_module" id="jd_comments">
+                                <div class="noneInfo">数据载入中,请稍候...</div>
+                            </div>
+                            <div class="faq_module" id="jd_zhidao">
+                            </div>
+                        </div>
+                    </div>
+                    <!--概况、砖家点评、点评等等 end-->
+                    <!--推荐与热门酒店:star-->
+                    <div class="d-left-module mt30">
+                        <div class="inner neinor-hotel">
+                            <ul class="d-title-tab clrfix" id="remhottitle">
+                                <li class="current" id="hotelrem_title"><a href="#" onclick="return false;" title="酒店推荐">酒店推荐</a></li>
+                                <li><a href="#" onclick="return false;" title="热门搜索" id="hotSearch_title">热门搜索</a></li>
+                            </ul>
+                            <!--酒店推荐：star-->
+                            <div class="m-hotel-recom" id="hotelrem">
+                            </div>
+                            <!--酒店推荐：end-->
+                            <!--热门搜索:star-->
+                            <div class="m-hot-search hide" id="hotSearch">
+                            </div>
+                            <!--热门搜索:end-->
+                        </div>
+                    </div>
+                    <!--推荐与热门酒店:end-->
+                </div>
+                <!--右侧下载手机客户端和浏览记录:-->
+                <div class="d-wt260 fr">
+                    <!--手机端下载:star-->
+                    <div class="b-clientdown"> <a title="去哪网手机客户端下载" target="_blank" href="http://phone.qunar.com/?bd_source=hoteldetail3w" hidefocus="true"><img src="http://source.qunar.com/hotel/detail/iphone_client_down.jpg" alt="去哪儿网手机客户端下载"></a> </div>
+                    <!--手机端下载:end-->
+                    <!--浏览记录:star-->
+                    <div class="b-browhistory mt15" id="jd_hisotry">
+                    </div>
+                    <!--浏览记录:end-->
+                    <!--攻略:star-->
+                    <div class="b-raiders mt15" id="strategyContainer">
+                        <h4>您最近有出游计划吗？</h4>
+                        <p class="raiders-button"><a href="#" id="link_addToStrategy" onclick="return false" target="_blank">将该酒店收集到攻略</a></p>
+                    </div>
+                    <!--攻略:end-->
+                    <!--广告 start-->
+                    <div id="rightMiddleAdContainer">
+                        <!--中部标识-->
+                        <abbr style="display:none;" data-type="qde" id="rightMiddleAd" data-query="chan=hotel&amp;pg=detail&amp;pos=mid&amp;site=qunar&amp;size=300x90" data-style="width:100%;margin-top:10;margin-bottom:10;"></abbr>
+                    </div>
+                    <!--广告 end-->
+                    <!--去哪儿网广告推荐:star-->
+                    <div class="qunar-link mt15" id="rightMiddleAd_QAD_title" style="display:none;">
+                        <h2>
+                            去哪儿网广告推荐
+                        </h2>
+                        <!--qad 文字链-->
+                        <div class="inner">
+                            <abbr id="ifrmRightAdContainer_QAD" style="display:none;" data-type="qde_text" data-query="chan=hotel&amp;pg=detail&amp;pos=right_bottom&amp;site=qunar&amp;type=Super_Zililink&amp;adposition=QNR_NQ==_CN&amp;tag=1&amp;rows=5&amp;cur_page_num=0&amp;rep=1&amp;f=s" data-style="width:100%;"></abbr>
+                        </div>
+                        <div class="xgyh" id="ifrmRightAdGoogleContainer">
+                            <abbr style="display:none;" data-type="qde" id="ifrmRightAdGoogle" data-query="chan=hotel&amp;pg=detail&amp;pos=bottom&amp;site=qunar&amp;size=300x250" data-style="width:317px;height:0px;margin-bottom:10;"></abbr>
+                        </div>
+                    </div>
+                    <div class="feedback">
+                        <a target="_blank" rel="nofollow" href="http://www.qunar.com/bookingFeedback/interface/feedback/index.htm?category=hotel">意见反馈</a>
+                    </div>
+                    <!--去哪儿网广告推荐:end-->
+                </div>
+            </div>
+            <div id="googleAdContainer" class="googleAdContainer">
+                <!--底部通栏-->
+                <abbr style="display:none;" data-type="qde" id="googleAd" data-query="chan=hotel&amp;pg=detail&amp;pos=bottom&amp;site=qunar&amp;size=970x85" data-style="width:100%;margin-top:10;"></abbr>
+            </div>
+        </div>
+    </div>
+    <!--qn_page end-->
+    <span id="eyKxim" style="display:none">0dbd2517c93c0a80d15099628830310eLfy2uwlLZdmqdx</span>
+    <div id="overlay"></div>
+    <div id="lightbox"></div>
+    <div id="routes" class="hidden"></div>
+    <script type="text/javascript">
+        var _ba_utm_l = 'h';
+        var _ba_utm_s = '174';
+    </script>
+
+    <script src="http://q.qunarzz.com/hotel_fekit/prd/scripts/base@4c45ab6cb028ebca7c8334c877e358fc.js"></script>
+    <script src="http://q.qunarzz.com/hotel_fekit/prd/scripts/qxbaidumap@73ba3356df4f19d847744da7b2426ff2.js"></script>
+    <script src="http://te.hotel.qunar.com/render/te"></script>
+    <script src="http://te.qunarzz.com/hotel_fekit/prd/scripts/detail@cd478b647f8643056e7aca842e6e686e.js"></script><img style="display:none;position:absolute;top:0;left:0" src="/render/detailInit.jsp?requestor=DETAIL_S_D&amp;cityurl=beijing_city&amp;fromDate=2017-11-07&amp;toDate=2017-11-08&amp;HotelSEQ=beijing_city_20438&amp;filterid="><div id="pop_top" class="pop-returntop" style="position: fixed; right: 0px; bottom: 80px;"><div class="return-top" id="js-return-top"><ul style="display: none;"><li class="defualt_top"><a href="javascript:void(0)" class="t_top"></a></li><li class="hover_top"><a href="javascript:void(0)" id="toTop"><b>返回顶部</b></a></li></ul></div><div class="view-help" id="js-view-help"><ul><li class="defualt_help"><a href="javascript:void(0)"></a></li><li class="hover_help"><a href="http://help.qunar.com/selfservice.html?from=detail_help" target="_blank"><b>查看帮助</b></a></li></ul></div></div><div class="m-activity-tips" id="js-activity-layer" style="z-index: 9502;display:none"><div class="activity-tips-box clrfix"><div class="activity-content"><ol class="activity-info"><li class="js-activity-content"></li></ol></div></div></div>
+    <script type="text/javascript">//<![CDATA[
+    var needEnable = false;
+    var cityName = "北京";
+    var commRank = "1423";
+    var dangci_comm_rank = "167";
+    var hotelGradeText = "四星级/高档型";
+    var cityHotelsCount = "554";
+    var isInternationalHotel = false;
+    $(function(){
+        detailPanel.initBook( isStatic );
+        detailPanel.initSearchBar();
+        detailPanel.initFav();
+        setTimeout(function(){
+            detailPanel.initPage();
+        },1000);
+
+        //QHotelAnalysis
+        if (window.init_qhotel_analysis) {
+            window.init_qhotel_analysis();
+        }
+    });
+
+    //]]>
+    </script>
+    <div class="qn_footer">
+    <div class="inner">
+        		<style type="text/css">
+			.qn_footer .copyright {padding:7px 0 0;line-height:22px;margin: 0;}
+			.qn_footer .copyright span,.qn_footer .copyright a,.qn_footer .copyright a:visited{margin-right:7px;padding:2px 0;color:#999;text-decoration: none;}
+			.qn_footer .copyright .s24{background:url(//source.qunarzz.com/common/hf/24h.png) no-repeat left center;padding-left:20px;}
+
+			.qn_footer .fh-about{display: inline-block;*zoom:1;*display:inline;width:110px;text-align:left;border:1px solid transparent;_border:0;_padding:1px;white-space:nowrap;}
+			.qn_footer .fh-about a{padding-left:6px;}
+			.qn_footer .fh-about .about-link{margin:0;*zoom:1;}
+			.qn_footer .fh-about.hover{border-color:#ddd;z-index: 999;background: #fff;}
+			.qn_footer .fh-about.hover .about-link{color:#ff9e5e;margin:0;}
+			.qn_footer .fh-about.hover .fh-list{display: block !important;}
+			.qn_footer .fh-about .fh-list{position: absolute;left:-1px;bottom:22px;border:1px solid #ddd;background: #fff;width:110px;display:none;white-space:normal;}
+			.qn_footer .fh-about .fh-list a{display: block;margin:0;*margin:0 !important;*width: 70%;}
+			.qn_footer .fh-about .fh-list a:hover{color:#666;background: #e2e2e2;*background:#fff;*color:#ff9e5e;}
+			.qn_footer .fh-about i{font-size:0;background:url(//source.qunarzz.com/common/hf/arc.png) no-repeat left bottom;width:7px;height:4px;display: inline-block;*display:inline;*zoom:1;margin:0 0 2px 3px;}
+			.qn_footer .fh-about.hover i{background-position:0 0;}
+			.qn_footer .fh-list-wrapper{height:0;position:relative;z-index: 999;*float: left;}
+
+			.qn_footer { clear: both; margin: 0 auto; padding: 15px 0 25px; width: 979px; line-height: 1.231; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #848484;}
+			.qn_footer .inner { margin: 0 10px; text-align: right; }
+			.qn_footer .gs { float: right; margin: 0 20px 0 0; }
+			.qn_footer .cr { margin-right: 0; padding-bottom: 11px;text-align:center;}
+			.qn_footer .links { margin: 0; padding: 2px 0 0; list-style: none;color:#999;display:block; }
+			.qn_footer .links span{*display:inline;*zoom:1;}
+			.qn_footer .links a,
+			.qn_footer .links a:visited { margin: 0 5px; text-decoration: none; color: #999;display:inline-block;*zoom:1;*display:inline;height:22px;line-height: 22px;white-space:nowrap; }
+			.qn_footer .links a:hover { color: #f60; }
+			.qn_footer .links a.hl,
+			.qn_footer .links a.hl:visited { color: #ff5555; }
+			.qn_footer .clr{clear:both;height:0;overflow:hidden;}
+
+			.qn_footer .f_imglist{margin-bottom:10px;}
+			.qn_footer .f_imglist ul{width:442px;margin:0 auto;padding-bottom:4px;overflow:hidden;}
+			.qn_footer .f_imglist li{float:left;margin-right:10px;display:inline;}
+			.qn_footer .f_imglist li a{display:block;width:100%;height:30px;}
+			.qn_footer .f_imglist li a span,.qn_footer .f_imglist li.f_icon_pata span{position:relative;z-index:-1;color:#0086A0;}
+			.qn_footer .f_imglist .f_icon_cnnic{width:88px;height:30px;background:url(//source.qunarzz.com/common/hf/footer_v10.png) -431px 0 no-repeat;margin-right:0;}
+			.qn_footer .f_imglist .f_icon_ec{width:87px;height:30px;background:url(//source.qunarzz.com/common/hf/footer_v10.png) -339px 0 no-repeat;}
+			.qn_footer .f_imglist .f_icon_beian{width:78px;height:30px;background:url(//source.qunarzz.com/common/hf/footer_v10.png) -256px 0 no-repeat;}
+			.qn_footer .f_imglist .f_icon_itrust{width:91px;height:30px;background:url(//source.qunarzz.com/common/hf/footer_v10.png) -160px 0 no-repeat;}
+			.qn_footer .f_imglist .f_icon_pci{width:49px;height:30px;background:url(//source.qunarzz.com/common/hf/footer_v10.png) -106px 0 no-repeat;}
+			.qn_footer .f_imglist .f_icon_verisign{width:101px;height:30px;background:url(//source.qunarzz.com/common/hf/footer_v10.png) 0 0 no-repeat;}
+
+			.seo { border-top: 1px solid #ddd; }
+			.seo .seo_links { clear: both; margin: 10px 0 0; padding: 0; color: #a7a7a7; }
+			.seo .seo_links a,
+			.seo .seo_links a:visited { margin-right: 6px; text-decoration: none; color: #a7a7a7; }
+			.seo .seo_links dt { float: left; padding-left: 25px; font-weight: 700; }
+			.seo .seo_links dd { margin-left: 88px; padding: 0; word-spacing: 5px; }
+			.seo .seo_links dd span { float: left; margin-right: 6px; white-space: nowrap; }
+			.seo .seo_links dd .clr { clear: both; height: 0; overflow: hidden; }
+		</style>
+		<div class="cr">
+			<div class="links">
+				<div class="fh-about" onmouseover="this.className+=' hover'" onmouseout="this.className=this.className.replace(/\shover/g,'')"><a href="http://www.qunar.com/site/zh/Qunar.in.China_1.2.shtml" target="_blank" rel="nofollow" class="about-link">关于Qunar.com</a><i></i><div class="fh-list-wrapper"><div class="fh-list"> <a href="http://www.qunar.com/site/zh/ContactUs_3.shtml" target="_blank" rel="nofollow">联系我们</a>  <a href="http://www.qunar.com/site/zh/Rules.shtml" target="_blank" rel="nofollow">用户协议</a> <a href="http://www.qunar.com/site/zh/Question_7.shtml" target="_blank" rel="nofollow">常见问题</a><a href="http://www.qunar.com/site/zh/Links_8.shtml" target="_blank" rel="nofollow">友情链接</a> </div></div></div><span>|</span><a href="http://investor-zh.qunar.com" target="_blank" rel="nofollow">投资者关系</a><span>|</span><a href="http://hotelzt.qunar.com/xuanchuan/index.html?from=qunarfooter" target="_blank" rel="nofollow">酒店加盟</a><span>|</span><a href="http://www.928383.com/?from=3W" target="_blank" rel="nofollow">酒店分销</a><span>|</span><a href="http://www.qunar.com/site/zh/Cooperate_4.shtml" target="_blank" rel="nofollow">业务合作</a><span>|</span><a href="http://qunar.zhiye.com/" target="_blank" rel="nofollow">加入我们</a><span>|</span><a href="http://help.qunar.com/complaint.html" class="" target="_blank" rel="nofollow">"严重违规失信"专项整治举报</a><span>|</span><a href="http://security.qunar.com" target="_blank" rel="nofollow">安全中心</a><span>|</span><a href="http://www.qunar.com/commonweal/index.html" target="_blank">星骆驼公益</a><span>|</span><a href="http://www.qunar.com/site/en/Qunar.in.China_1.1.shtml" target="_blank" rel="nofollow">About Us</a></div>
+			<p class="copyright"><span>Copyright ©2017 Qunar.com</span><span>京公网安备110108901530</span><a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">京ICP备05021087号</a><a href="http://www.qunar.com/site/company_info.htm" target="_blank" rel="nofollow">营业执照信息</a><a href="http://baoxian.qunar.com/html/notify_zct.html" target="_blank" rel="nofollow">保险经纪资质</a><a href="http://www.qunar.com/site/company_drug_info.htm" target="_blank" rel="nofollow">(京)-非经营性-2016-0110</a><span class="s24">去哪儿网客服电话95117</span></p>
+		</div>
+		<div class="f_imglist">
+			<ul>
+				<li><a href="https://cn.globalsign.com/" target="_blank" rel="nofollow"><img src="//s.qunarzz.com/hf/approve/globalsign.gif" height="30"></a></li>
+				<li class="f_icon_pci"><a href="http://www.atsec.cn/cn/pci-attestation/Qunar-PCIAttestation-atsec-PCI-DSS-C-65221.jpg" target="_blank" rel="nofollow" title="去哪儿网通过PCI认证"></a></li>
+				<li class="f_icon_itrust"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1786892425" target="_blank" rel="nofollow" title="信用编码：1786892425"></a></li>
+				<li class="f_icon_beian"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007112700003" target="_blank" rel="nofollow" title="经营性网站备案信息"></a></li>
+				<li class="f_icon_cnnic"><a href="https://ss.knet.cn/verifyseal.dll?sn=e131022110100429697dhp000000&amp;ct=df&amp;a=1&amp;pa=500267" target="_blank" rel="nofollow" title="可信网站身份验证"></a></li>
+			</ul>
+			<div class="clr"></div>
+		</div>
+		<script> (function(){var i = new Image(); i.src = "//user.qunar.com/passport/addICK.jsp" + ( document.location.protocol === "https:" ? "?ssl" : ""); })(); </script>
+<style type="text/css">
+.q_footer_slinks { padding:7px 20px; border:1px solid #efefef; text-align:left; }
+.q_footer_slinks .slinkset { margin:0 0 8px; padding:0 0 8px; border:0 none; border-bottom:1px dashed #e9e9e9; font:normal 12px/1.5 tahoma,arial,sans-serif; color:#ccc; }
+.q_footer_slinks .slinkset dt { font-weight:700; }
+.q_footer_slinks .slinkset dd { word-spacing:5px; }
+.q_footer_slinks .slinkset dd span { white-space:nowrap; word-spacing:0; }
+.q_footer_slinks .slinkset a,
+.q_footer_slinks .slinkset a:hover { text-decoration:none; color:#ccc; }
+.q_footer_slinks .slinkset_last { margin-bottom:0; padding-bottom:0; border-bottom:0 none; }
+
+.qn_footer .seo { margin:30px 0 0; border-top:0 none !important; }
+</style>
+<div class="q_footer_slinks">
+    <dl class="slinkset">
+        <dt>热门城市酒店</dt>
+        <dd>
+            <span><a href="http://hotel.qunar.com/city/beijing_city/" title="北京酒店" target="_blank">北京酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/sanya/" title="三亚酒店" target="_blank">三亚酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/hongkong_city/" title="香港酒店" target="_blank">香港酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/xiamen/" title="厦门酒店" target="_blank">厦门酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/hangzhou/" title="杭州酒店" target="_blank">杭州酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/qingdao/" title="青岛酒店" target="_blank">青岛酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/shanghai_city/" title="上海酒店" target="_blank">上海酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/macao_city/" title="澳门酒店" target="_blank">澳门酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/yiwu/" title="义乌酒店" target="_blank">义乌酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/shenzhen/" title="深圳酒店" target="_blank">深圳酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/chengdu/" title="成都酒店" target="_blank">成都酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/guangzhou/" title="广州酒店" target="_blank">广州酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/xian/" title="西安酒店" target="_blank">西安酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/dalian/" title="大连酒店" target="_blank">大连酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/nanjing/" title="南京酒店" target="_blank">南京酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/suzhou_jiangsu/" title="苏州酒店" target="_blank">苏州酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/changsha/" title="长沙酒店" target="_blank">长沙酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/tianjin_city/" title="天津酒店" target="_blank">天津酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/wuhan/" title="武汉酒店" target="_blank">武汉酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/chongqing_city/" title="重庆酒店" target="_blank">重庆酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/qiandaohu/" title="千岛湖酒店" target="_blank">千岛湖酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/zhuhai/" title="珠海酒店" target="_blank">珠海酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/lijiang/" title="丽江酒店" target="_blank">丽江酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/guilin/" title="桂林酒店" target="_blank">桂林酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/haerbin/" title="哈尔滨酒店" target="_blank">哈尔滨酒店</a></span>
+            <span><a href="http://hotel.qunar.com/city/jiuzhaigou/" title="九寨沟酒店" target="_blank">九寨沟酒店</a></span>
+            <div class="clr"></div>
+        </dd>
+    </dl>
+    <dl class="slinkset slinkset_last">
+        <dt>连锁酒店品牌</dt>
+        <dd>
+            <span><a href="http://7daysinn.hotel.qunar.com/" title="7天连锁酒店" target="_blank">7天连锁</a></span>
+            <span><a href="http://jinjianginns.hotel.qunar.com/" title="锦江之星连锁酒店" target="_blank">锦江之星</a></span>
+            <span><a href="http://998.hotel.qunar.com/" title="格林豪泰连锁酒店" target="_blank">格林豪泰</a></span>
+            <span><a href="http://shangrila.hotel.qunar.com/" title="香格里拉酒店" target="_blank">香格里拉</a></span>
+            <span><a href="http://super8.hotel.qunar.com/" title="速8连锁酒店" target="_blank">速8</a></span>
+            <span><a href="http://hilton.hotel.qunar.com/" title="希尔顿酒店" target="_blank">希尔顿</a></span>
+            <span><a href="http://pod.hotel.qunar.com/" title="布丁酒店" target="_blank">布丁</a></span>
+            <span><a href="http://motel168.hotel.qunar.com/" title="莫泰168酒店" target="_blank">莫泰</a></span>
+            <span><a href="http://wyn88.hotel.qunar.com/" title="维也纳酒店" target="_blank">维也纳</a></span>
+            <span><a href="http://starwoodhotels.hotel.qunar.com/" title="喜来登酒店" target="_blank">喜来登</a></span>
+            <span><a href="http://ibishotel.hotel.qunar.com/" title="宜必思酒店" target="_blank">宜必思</a></span>
+            <span><a href="http://kempinski.hotel.qunar.com/" title="凯宾斯基酒店" target="_blank">凯宾斯基</a></span>
+            <span><a href="http://marriott.hotel.qunar.com/" title="万豪酒店" target="_blank">万豪</a></span>
+            <span><a href="http://westin.hotel.qunar.com/" title="威斯汀酒店" target="_blank">威斯汀</a></span>
+            <span><a href="http://grandhyatt.hotel.qunar.com/" title="君悦酒店" target="_blank">君悦</a></span>
+            <span><a href="http://starway.hotel.qunar.com/" title="星程酒店" target="_blank">星程</a></span>
+            <span><a href="http://99inn.hotel.qunar.com/" title="99连锁酒店" target="_blank">99连锁</a></span>
+            <span><a href="http://ccinn.hotel.qunar.com/" title="城市便捷酒店" target="_blank">城市便捷</a></span>
+            <span><a href="http://crowneplaza.hotel.qunar.com/" title="皇冠假日连锁酒店" target="_blank">皇冠假日</a></span>
+            <div class="clr"></div>
+        </dd>
+    </dl>
+</div><div class="seo">
+<dl class="seo_links">
+<dt>友情链接</dt>
+<dd>
+	<span><a target="_blank" href="http://www.yuding8.com/">酒店预订网</a></span>
+	<span><a target="_blank" href="http://www.tourcool.com/">成都旅行社</a></span>
+	<span><a target="_blank" href="http://www.liontravel.com/">雄狮旅游</a></span>
+	<span><a target="_blank" href="http://www.bbkz.com/forum/">背包客栈</a></span>
+   	<span><a target="_blank" href="http://www.5i7u.cn/">我爱出游网</a></span>
+    <span><a target="_blank" href="http://www.htinns.com/">汉庭连锁</a></span>
+					<div class="clr"></div>
+				</dd>
+			</dl>
+			<dl class="seo_links"><dt>快速链接</dt>
+				<dd>
+			    <span><a href="http://jingpin.qunar.com/" target="_blank">精品酒店</a>|</span>
+				<span><a href="http://hotel.qunar.com/city/beijing_city/" target="_blank">北京酒店</a>|</span>
+				<span><a href="http://hotel.qunar.com/city/hongkong_city/" target="_blank">香港酒店</a>|</span>
+				<span><a href="http://hotel.qunar.com/city/qingdao/" target="_blank">青岛酒店</a>|</span>
+				<span><a href="http://hotel.qunar.com/city/hangzhou/" target="_blank">杭州酒店</a>|</span>
+				<span><a href="http://hotel.qunar.com/city/shanghai_city/" target="_blank">上海酒店</a>|</span>
+				<span><a href="http://hotel.qunar.com/city/shenzhen/" target="_blank">深圳酒店</a>|</span>
+				<span><a href="http://tuan.qunar.com/team.php?id=QNRMTczMzI4&amp;in_track=po_www_ks" target="_blank">7天酒店</a>|</span>
+				<span><a href="http://piaohomeinn.hotel.qunar.com/" target="_blank">飘HOME</a>|</span>
+				<span><a href="http://millennium.hotel.qunar.com/" target="_blank">千禧酒店</a>|</span>
+				<span><a href="http://regis.hotel.qunar.com/" target="_blank">瑞吉酒店</a>|</span>
+				<span><a href="http://shanshui.hotel.qunar.com/" target="_blank">山水时尚</a>|</span>
+				<span><a href="http://traders.hotel.qunar.com/" target="_blank">盛贸酒店</a>|</span>
+				<span><a href="http://fourseasons.hotel.qunar.com/" target="_blank">四季酒店</a></span>
+				<span><a target="_blank" href="http://www.qunar.com/zt/lijiang/">丽江旅游</a>|</span>
+				<span><a target="_blank" href="http://www.qunar.com/zt/suzhou_jiangsu/">苏州旅游</a>|</span>
+				<span><a target="_blank" href="http://www.qunar.com/zt/haikou/">海口旅游</a>|</span>
+				<span><a target="_blank" href="http://www.qunar.com/zt/hanguo/">韩国旅游</a>|</span>
+				<span><a target="_blank" href="http://tuan.qunar.com/index.php?sortby=city_kw&amp;key=54Of5Y+w_5YWo6YOo_5YWo6YOo">烟台旅游</a>|</span>
+				<span><a target="_blank" href="http://www.qunar.com/zt/chunjiejipiao/">春节机票</a>|</span>
+				<span><a href="http://csair.qunar.com/" target="_blank">南方航空</a>|</span>
+				<span><a href="http://hnair.qunar.com/" target="_blank">海南航空</a>|</span>
+				<span><a href="http://shenzhenair.qunar.com/" target="_blank">深圳航空</a>|</span>
+				<span><a href="http://xiamenair.qunar.com/" target="_blank">厦门航空</a>|</span>
+				<span><a href="http://shandongair.qunar.com/" target="_blank">山东航空</a>|</span>
+				<span><a href="http://china-sss.qunar.com/" target="_blank">春秋航空</a>|</span>
+				<span><a href="http://airchina.qunar.com/" target="_blank">国航特价</a>|</span>
+				<span><a target="_blank" href="http://www.qunar.com/zt/">全国游</a></span>
+				 <div class="clr"></div>
+				</dd>
+			</dl>
+		</div>
+    </div>
+</div>
+
+    <iframe src="/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&amp;params=%7B%22AccessCity%22%3A%22%E5%8C%97%E4%BA%AC%22%2C%22HotelDangci%22%3A%223%22%2C%22HotelPinpai%22%3A%22%E5%81%87%E6%97%A5%22%2C%22AccessPage%22%3A%22detail%22%7D&amp;referer=&amp;seq=beijing_city_20438&amp;location=%E5%8C%97%E4%BA%AC&amp;hotelGrade=3&amp;pagetype=offerdetail" height="0" frameborder="0" scrolling="no" id="googlesem"></iframe>
+    <!--<iframe src="/render/matchlessdsp.jsp" height="0" frameborder="0" scrolling="no" id="matchlessdsp"></iframe>-->
+    <iframe src="/render/ga_new.jsp" height="0" frameborder="0" scrolling="no" id="marketingga"></iframe>
+    
+    <script>
+        var _ba_utm_ex = {
+            a : cityurl,
+            b : hotelSEQ
+        };
+
+        $(function(){
+            CommentReport.init();
+            if( typeof adTool !== 'undefined' && adTool.end )
+                adTool.end();
+        });
+
+    </script>
+   
+    <script type="text/javascript">
+        var page_data = {
+            'sc_pageName': 'http%3A%2F%2Fhotel.qunar.com%2Fcity%2Fbeijing_city%2Fdt-20438', //页面名称，如果留空会自动默认URL
+            'sc_customerid': '',//用户ID
+            'sc_city': '北京'//城市
+        };
+    </script>
+    <script type="text/javascript">
+        try{//遇到js库加载超时的情况,加个try catch吧
+            _satellite.pageBottom();
+        }catch(e){
+
+        }
+    </script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?8fa710fe238aadb83847578e333d4309";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <script type="text/javascript" src="//s.union.360.cn/55613.js" async="" defer=""></script>
+    <script type="text/javascript">
+        (function(w, n) {
+            w[n] = typeof w[n] === 'function' ? w[n] : function() {
+                (w[n].c = w[n].c || []).push(arguments);
+            }
+
+            _qha('send', {
+                et: 30,
+                id: window.hotelSEQ
+            });
+        })(window, '_qha');
+    </script>
+
+
+<div class="rbox_outerContent" style="display: none; position: absolute; left: 0px; top: 0px; overflow: scroll; z-index: 10001;"><div style="float: left; display: inline;"></div></div><div style="display: none; position: absolute; background-color: rgb(255, 255, 255); left: 0px; top: 0px; opacity: 0.75; z-index: 9999;"></div><iframe name="192347" height="0" width="0" src="http://360fenxi.mediav.com/mv.html" style="display: none;"></iframe><div id="hoverImgId" style="position: absolute; z-index: 9999; display: none;"><div class="po_pic"><div class="boxt"><div class="boxpic"><div class="pic-load"></div></div></div></div></div><div class="rbox_outerContent" style="display: none; position: absolute; left: 0px; top: 0px; overflow: scroll; z-index: 9502;"><div style="float: left; display: inline;"><div class="ui-photo-pop"><a class="icon-close-pop js-close"><span class="close-txt">close</span></a> <div class="photo-layer-wraper js-photo-wrapper"><div class="photo-layer-hd clrfix js-nav"><ul class="photo-type"><li class="on js-item" style="" data-type="hotelPic" data-bc="酒店Tab"><a hidefocus="on" href="javascript:void(0);" title="酒店图片">酒店图片</a></li><li class="js-item" style="display:none" data-type="panorama" data-bc="全景Tab"><a hidefocus="on" href="javascript:void(0);" title="全景">全景</a></li></ul></div><div class="photo-tab-content hotel-pic-content clrfix"><div class="photo-view js-pic-details"><div class="photo-view-bd"></div><div class="photo-view-ft"></div></div><div class="photo-thumb"><div class="photo-thumb-hd js-cats"><ul class="picture-type-tab clrfix"><li data-type="all" data-bc="全部图片" class="js-cat-item on"><a href="javascript:void(0);" hidefocus="on" title="全部图片">全部图片<em>180</em></a></li><li data-type="roomtype" data-bc="房间" class="js-cat-item"><a href="javascript:void(0);" hidefocus="on" title="房间">房间<em>62</em></a></li><li data-type="surface" data-bc="外景" class="js-cat-item"><a href="javascript:void(0);" hidefocus="on" title="外景">外景<em>15</em></a></li><li data-type="environment" data-bc="内景" class="js-cat-item"><a href="javascript:void(0);" hidefocus="on" title="内景">内景<em>78</em></a></li></ul></div><div class="photo-thumb-bd js-slide"><div class=" scroll-container" data-scroller="1" style="width: 100%; height: 100%; overflow: hidden;"><div class="scroll-zone e_scroll_outer hide"><a class="top" hidefocus="on" href="#" style="margin-top: 0px;">top</a><p class="ctn" style="height: 0px;"><span class="cur" unselectable="on" style="height: 0px;"></span></p><a class="down" hidefocus="on" href="#" style="margin-bottom: 0px;">down</a></div><div class="scroll-clip cpcmap-scrollclip" style="overflow: hidden; height: 0px; width: 0px;"><div class="scroll-content"><div class="picture-list-ct"></div><div style="clear: both;"></div></div></div></div></div><div class="gradient-bg js-gradient-bg"></div><div class="photo-thumb-ft"><p><i class="icon-waring"></i>图片仅供参考，请以实际入住酒店为准。</p></div></div></div></div></div></div></div><div style="display: none; position: absolute; background-color: rgb(255, 255, 255); left: 0px; top: 0px; opacity: 0.75; z-index: 9498;"></div><script type="text/javascript" src="https://rmcsdf.qunar.com/js/device.js?orgId=ucenter.login&amp;sessionId=4c04570b-6122-4eb0-8b7f-4021abdb805a&amp;auto=false"></script><script type="text/javascript" src="https://rmcsdf.qunar.com/js/df.js?org_id=ucenter.login&amp;js_type=0"></script></body></html>

@@ -3,6 +3,9 @@ import string, urllib2, re
 
 import sys
 import time
+import threading
+import traceback
+from time import ctime,sleep
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
@@ -145,7 +148,7 @@ def tiquneirong(thumbUpCount):
                 print '正在加载，请稍等...'
 
         pageIndex = pageIndex + 1
-        time.sleep(1)
+        sleep(1)
         
     print "\n\n"
 
@@ -331,3 +334,57 @@ def gettiquneirong(thumbUpCount, xiaohuaCount):
 # tiebaUrl = raw_input(u'请输入文章的地址：')
 # tiebaUrl = tiebaUrl + '?see_lz=1&pn='
 # tiquneirong(tiebaUrl)
+
+
+pageUrlList = []
+
+def getNeiRongByThread(thumbUpCount):
+    while len(pageUrlList):
+        try:
+            pageUrl = pageUrlList[0]
+            del pageUrlList[0]
+            print pageUrl
+            #下载页面
+            user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
+            headers = { 'User-Agent' : user_agent }
+            req = urllib2.Request(pageUrl, headers = headers)
+            curPage = urllib2.urlopen(req).read()
+
+            #从页面提取内容并输出
+            #找出所有class="content"的div标记
+            #re.S是任意匹配模式，也就是.可以匹配换行符
+            myItems = re.findall('<a href="/users/(.*?)<h2>(\s*)(.*?)(\s*)</h2>(.*?)<div class="content">(\s*)<span>(\s*)(.*?)(\s*)</span>(.*?)<!--(.*?)<span class="stats-vote"><i class="number">(.*?)</i> 好笑</span>', curPage, re.S)
+            for item in myItems:
+                author = item[2]
+                content = item[7].replace("<br/>", "\n")
+                curThumbUpCount = int(item[11])
+                if(len(content) > 100) and (curThumbUpCount > thumbUpCount):
+                    td = threading.current_thread()
+                    print td.getName()
+                    print '作者：' + author + ' 好笑:' + str(curThumbUpCount)
+                    print content + "\n"
+            sleep(5)
+        except IOError:
+            sleep(1)
+        except Exception as e:
+            print 'traceback.format_exc():\n%s' % traceback.format_exc()
+
+def multiThreadingGet(thumbUpCount, threadNum):
+    qsurl = 'http://www.qiushibaike.com/hot/page/'
+    index = 0
+    pageIndex = 1
+
+    while pageIndex < 200:
+        pageUrlList.append(qsurl + str(pageIndex))
+        pageIndex = pageIndex + 1
+
+    threads = []
+    i = 0
+    while i < threadNum:
+        td = threading.Thread(target=getNeiRongByThread,args=(thumbUpCount,))
+        time.sleep(2.3)
+        td.setDaemon(True)
+        td.start()
+        i = i + 1
+    td.join()
+    print "all over %s" %ctime()

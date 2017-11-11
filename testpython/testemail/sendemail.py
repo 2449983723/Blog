@@ -25,7 +25,7 @@ if __name__ == '__main__':
     content_head = ''
     smtp.ehlo(mail_info["hostname"])
     smtp.login(mail_info["username"], mail_info["password"])
-    mail_info["mail_text"] = content_head + gettiquneirong(5000, 10)
+    mail_info["mail_text"] = content_head + gettiquneirong(1000, 100)
     msg = MIMEText(mail_info["mail_text"], "plain", mail_info["mail_encoding"])
     msg["Subject"] = Header(mail_info["mail_subject"], mail_info["mail_encoding"])
     msg["from"] = mail_info["from"]

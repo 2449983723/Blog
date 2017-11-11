@@ -1,0 +1,5 @@
+http://blog.csdn.net/jiangwei0910410003/article/details/51437659
+
+adb shell dumpsys window | findstr mCurrentFocus  命令查看当前运行的包名和Activity
+adb backup -f applock.ab com.thinkyeah.smartlockfree
+java -jar abe.jar unpack applock.ab applock.tar

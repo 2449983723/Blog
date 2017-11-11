@@ -66,7 +66,7 @@ class QQ:
     @staticmethod
     def __Download(starturl, filename):
         url = starturl
-
+        print url
         cookieFile = urllib2.HTTPCookieProcessor()
         opener = urllib2.build_opener(cookieFile)
 
@@ -83,6 +83,7 @@ class QQ:
             nextpage = nextpagePattern.search(text)
             if nextpage:
                 url = nextpage.group(1)
+                print url
             else:
                 break
 
