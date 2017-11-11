@@ -245,4 +245,4 @@ class QQMood:
         f.close()
 
 qqMood = QQMood()
-qqMood.start('2449983723', 'Ln@hbutrj1b')
+qqMood.start('qq', 'password')
